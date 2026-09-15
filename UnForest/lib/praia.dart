@@ -203,7 +203,7 @@ class _LixoTaskPageState extends State<LixoTaskPage> {
           children: [
             // PNG com as Instruções
             Image.asset(
-              'images/buttons/balao_fala_pergaminho.png', // Seu PNG explicativo
+              'images/task_praia/balao_praia.png', // Seu PNG explicativo
               width: 400,
             ),
             const SizedBox(height: 24),
@@ -235,7 +235,7 @@ class _LixoTaskPageState extends State<LixoTaskPage> {
           children: [
             // PNG de mensagem final
             Image.asset(
-              'images/buttons/balao_fala_pergaminho.png', // Seu PNG de Conclusão/Parabéns
+              'images/task_praia/balao_task_concluida.png', // Seu PNG de Conclusão/Parabéns
               width: 400,
             ),
             const SizedBox(height: 24),
