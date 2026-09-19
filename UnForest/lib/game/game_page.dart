@@ -15,7 +15,7 @@ class GamePage extends StatelessWidget {
     return BonfireWidget(
       showCollisionArea: true,
       map: WorldMapByTiled(
-        WorldMapReader.fromAsset('teste_mapa.json'),
+        WorldMapReader.fromAsset('mapa_praia.json'),
       ),
       playerControllers: [
         Joystick(directional: JoystickDirectional()),
@@ -29,7 +29,7 @@ class GamePage extends StatelessWidget {
 
       cameraConfig: CameraConfig(
         moveOnlyMapArea: true,
-        zoom: 1.0,
+        zoom: 2.0,
       ),
     );
   }

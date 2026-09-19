@@ -1,0 +1,210 @@
+{
+    "activeFile": "teste_mapa.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Atlas-Props-Sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "#Atlas-props-sprites": {
+            "dynamicWrapping": true
+        },
+        "#Props-neve": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#Terrain - Highlands": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "#beach - with thick foam": {
+            "dynamicWrapping": false
+        },
+        "#props(as sprites)": {
+            "dynamicWrapping": true
+        },
+        "mapa_cidade.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 624,
+                "y": 533
+            }
+        },
+        "mapa_cidade.tmx#Atlas-Props-Sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Atlas-Props-sheet2-sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Atlas-props-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125
+        },
+        "mapa_cidade.tmx#Premade_houses": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Tileset - Terrain - new grass2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "mapa_cidade.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 0.5
+        },
+        "mapa_cidade.tmx#props(as sprites)": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "mapa_neve.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 258,
+                "y": 716.25
+            }
+        },
+        "mapa_neve.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 0.125
+        },
+        "mapa_neve.tmx#Props-neve": {
+            "scaleInDock": 1
+        },
+        "mapa_neve.tmx#Terrain - Highlands": {
+            "scaleInDock": 0.5
+        },
+        "mapa_neve.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 960,
+                "y": 675.3333333333333
+            }
+        },
+        "mapa_praia.tmx#Atlas-props-sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.125
+        },
+        "mapa_praia.tmx#Props_praia": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 0.75
+        },
+        "mapa_praia.tmx#beach - with thick foam": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 2309.090909090909,
+                "y": 1856.060606060606
+            }
+        },
+        "teste_mapa.tmx#Areia": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-sheet1-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-sheet2-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-props-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Beach-transition tiles between coast platform(grass2) and beach": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Grama_Areia": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Oasis": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Premade_houses": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props-neve": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_Deserto1": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_Deserto2": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_praia": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Terrain - Highlands": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset-Terrain": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset_deserto": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#beach - with thick foam": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#deep sea": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#props(as sprites)": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/zoiai/OneDrive/Área de Trabalho/Faculdade/Trabalho-Interdisciplinar-4---UnForest/UnForest/assets/images",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "Todos os Ficheiros (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "mapa_cidade.tmx",
+        "teste_mapa.tmx",
+        "mapa_praia.tmx",
+        "mapa_neve.tmx"
+    ],
+    "project": "mapa_cidade.tiled-project",
+    "recentFiles": [
+        "mapa_cidade.tmx",
+        "mapa_neve.tmx",
+        "mapa_praia.tmx",
+        "teste_mapa.tmx"
+    ]
+}

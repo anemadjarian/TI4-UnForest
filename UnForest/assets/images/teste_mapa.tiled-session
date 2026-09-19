@@ -12,7 +12,7 @@
             "scale": 0.25,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1634,
+                "x": 1632,
                 "y": 1590
             }
         },
@@ -166,9 +166,9 @@
     ],
     "project": "teste_mapa.tiled-project",
     "recentFiles": [
-        "tiled/ERW - The Village/TiledMap Editor/tilesets/Premade_houses.tsx",
         "tsx_xml/Tileset-Terrain.tsx",
-        "teste_mapa.tmx"
+        "teste_mapa.tmx",
+        "tiled/ERW - The Village/TiledMap Editor/tilesets/Premade_houses.tsx"
     ],
     "tileset.lastUsedFilter": "Ficheiros de conjunto de tiles Tiled (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
