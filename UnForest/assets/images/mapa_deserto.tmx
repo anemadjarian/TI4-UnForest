@@ -1,0 +1,2054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="left-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="13" nextobjectid="1">
+ <editorsettings>
+  <export target="mapa_deserto.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="deep sea" tilewidth="32" tileheight="32" tilecount="225" columns="9">
+  <image source="tiled/ERW-Sea Adventures-GL2 Expansion/Tilesets/sea-color variation-spritesheet.png" width="288" height="826"/>
+  <tile id="45">
+   <animation>
+    <frame tileid="45" duration="100"/>
+    <frame tileid="46" duration="100"/>
+    <frame tileid="47" duration="100"/>
+    <frame tileid="48" duration="100"/>
+    <frame tileid="49" duration="100"/>
+    <frame tileid="50" duration="100"/>
+    <frame tileid="51" duration="100"/>
+    <frame tileid="52" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="54">
+   <animation>
+    <frame tileid="54" duration="100"/>
+    <frame tileid="55" duration="100"/>
+    <frame tileid="56" duration="100"/>
+    <frame tileid="57" duration="100"/>
+    <frame tileid="58" duration="100"/>
+    <frame tileid="59" duration="100"/>
+    <frame tileid="60" duration="100"/>
+    <frame tileid="61" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="63">
+   <animation>
+    <frame tileid="63" duration="100"/>
+    <frame tileid="64" duration="100"/>
+    <frame tileid="65" duration="100"/>
+    <frame tileid="66" duration="100"/>
+    <frame tileid="67" duration="100"/>
+    <frame tileid="68" duration="100"/>
+    <frame tileid="69" duration="100"/>
+    <frame tileid="70" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="72">
+   <animation>
+    <frame tileid="72" duration="100"/>
+    <frame tileid="73" duration="100"/>
+    <frame tileid="74" duration="100"/>
+    <frame tileid="75" duration="100"/>
+    <frame tileid="76" duration="100"/>
+    <frame tileid="77" duration="100"/>
+    <frame tileid="78" duration="100"/>
+    <frame tileid="79" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="81">
+   <animation>
+    <frame tileid="81" duration="100"/>
+    <frame tileid="82" duration="100"/>
+    <frame tileid="83" duration="100"/>
+    <frame tileid="84" duration="100"/>
+    <frame tileid="85" duration="100"/>
+    <frame tileid="86" duration="100"/>
+    <frame tileid="87" duration="100"/>
+    <frame tileid="88" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="90">
+   <animation>
+    <frame tileid="90" duration="100"/>
+    <frame tileid="91" duration="100"/>
+    <frame tileid="92" duration="100"/>
+    <frame tileid="93" duration="100"/>
+    <frame tileid="94" duration="100"/>
+    <frame tileid="95" duration="100"/>
+    <frame tileid="96" duration="100"/>
+    <frame tileid="97" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="99">
+   <animation>
+    <frame tileid="99" duration="100"/>
+    <frame tileid="100" duration="100"/>
+    <frame tileid="101" duration="100"/>
+    <frame tileid="102" duration="100"/>
+    <frame tileid="103" duration="100"/>
+    <frame tileid="104" duration="100"/>
+    <frame tileid="105" duration="100"/>
+    <frame tileid="106" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="108">
+   <animation>
+    <frame tileid="108" duration="100"/>
+    <frame tileid="109" duration="100"/>
+    <frame tileid="110" duration="100"/>
+    <frame tileid="111" duration="100"/>
+    <frame tileid="112" duration="100"/>
+    <frame tileid="113" duration="100"/>
+    <frame tileid="114" duration="100"/>
+    <frame tileid="115" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="117">
+   <animation>
+    <frame tileid="117" duration="100"/>
+    <frame tileid="118" duration="100"/>
+    <frame tileid="119" duration="100"/>
+    <frame tileid="120" duration="100"/>
+    <frame tileid="121" duration="100"/>
+    <frame tileid="122" duration="100"/>
+    <frame tileid="123" duration="100"/>
+    <frame tileid="124" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="126">
+   <animation>
+    <frame tileid="126" duration="100"/>
+    <frame tileid="127" duration="100"/>
+    <frame tileid="128" duration="100"/>
+    <frame tileid="129" duration="100"/>
+    <frame tileid="130" duration="100"/>
+    <frame tileid="131" duration="100"/>
+    <frame tileid="132" duration="100"/>
+    <frame tileid="133" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="135">
+   <animation>
+    <frame tileid="135" duration="100"/>
+    <frame tileid="136" duration="100"/>
+    <frame tileid="137" duration="100"/>
+    <frame tileid="138" duration="100"/>
+    <frame tileid="139" duration="100"/>
+    <frame tileid="140" duration="100"/>
+    <frame tileid="141" duration="100"/>
+    <frame tileid="142" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="144">
+   <animation>
+    <frame tileid="144" duration="100"/>
+    <frame tileid="145" duration="100"/>
+    <frame tileid="146" duration="100"/>
+    <frame tileid="147" duration="100"/>
+    <frame tileid="148" duration="100"/>
+    <frame tileid="149" duration="100"/>
+    <frame tileid="150" duration="100"/>
+    <frame tileid="151" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="153">
+   <animation>
+    <frame tileid="153" duration="100"/>
+    <frame tileid="154" duration="100"/>
+    <frame tileid="155" duration="100"/>
+    <frame tileid="156" duration="100"/>
+    <frame tileid="157" duration="100"/>
+    <frame tileid="158" duration="100"/>
+    <frame tileid="159" duration="100"/>
+    <frame tileid="160" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="162">
+   <animation>
+    <frame tileid="162" duration="100"/>
+    <frame tileid="163" duration="100"/>
+    <frame tileid="164" duration="100"/>
+    <frame tileid="165" duration="100"/>
+    <frame tileid="166" duration="100"/>
+    <frame tileid="167" duration="100"/>
+    <frame tileid="168" duration="100"/>
+    <frame tileid="169" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="171">
+   <animation>
+    <frame tileid="171" duration="100"/>
+    <frame tileid="172" duration="100"/>
+    <frame tileid="173" duration="100"/>
+    <frame tileid="174" duration="100"/>
+    <frame tileid="175" duration="100"/>
+    <frame tileid="176" duration="100"/>
+    <frame tileid="177" duration="100"/>
+    <frame tileid="178" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="180">
+   <animation>
+    <frame tileid="180" duration="100"/>
+    <frame tileid="181" duration="100"/>
+    <frame tileid="182" duration="100"/>
+    <frame tileid="183" duration="100"/>
+    <frame tileid="184" duration="100"/>
+    <frame tileid="185" duration="100"/>
+    <frame tileid="186" duration="100"/>
+    <frame tileid="187" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="189">
+   <animation>
+    <frame tileid="189" duration="100"/>
+    <frame tileid="190" duration="100"/>
+    <frame tileid="191" duration="100"/>
+    <frame tileid="192" duration="100"/>
+    <frame tileid="193" duration="100"/>
+    <frame tileid="194" duration="100"/>
+    <frame tileid="195" duration="100"/>
+    <frame tileid="196" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="198">
+   <animation>
+    <frame tileid="198" duration="100"/>
+    <frame tileid="199" duration="100"/>
+    <frame tileid="200" duration="100"/>
+    <frame tileid="201" duration="100"/>
+    <frame tileid="202" duration="100"/>
+    <frame tileid="203" duration="100"/>
+    <frame tileid="204" duration="100"/>
+    <frame tileid="205" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="207">
+   <animation>
+    <frame tileid="207" duration="100"/>
+    <frame tileid="208" duration="100"/>
+    <frame tileid="209" duration="100"/>
+    <frame tileid="210" duration="100"/>
+    <frame tileid="211" duration="100"/>
+    <frame tileid="212" duration="100"/>
+    <frame tileid="213" duration="100"/>
+    <frame tileid="214" duration="100"/>
+   </animation>
+  </tile>
+  <wangsets>
+   <wangset name="deep sea" type="corner" tile="2">
+    <wangcolor name="" color="#ff0000" tile="2" probability="1"/>
+    <wangtile tileid="45" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="54" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="63" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="72" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="81" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="90" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="99" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="108" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="117" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="126" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="135" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="144" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="153" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="162" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="171" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="180" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="189" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="198" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="207" wangid="0,1,0,1,0,1,0,1"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="226" name="Props_Deserto1" tilewidth="32" tileheight="32" tilecount="1612" columns="31">
+  <image source="tiled/ERW - Desert/props/props.png" width="992" height="1664"/>
+ </tileset>
+ <tileset firstgid="1838" name="Areia" tilewidth="32" tileheight="32" tilecount="40" columns="8">
+  <image source="tiled/ERW - Desert/tilesets/sand-to-transparency.png" width="256" height="160"/>
+ </tileset>
+ <tileset firstgid="1878" name="props1" tilewidth="256" tileheight="256" tilecount="349" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="1">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_2.png" width="64" height="64"/>
+  </tile>
+  <tile id="2">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="3">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_4.png" width="96" height="96"/>
+  </tile>
+  <tile id="4">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="5">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_6.png" width="96" height="96"/>
+  </tile>
+  <tile id="6">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_7.png" width="64" height="64"/>
+  </tile>
+  <tile id="7">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_8.png" width="96" height="64"/>
+  </tile>
+  <tile id="8">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_9.png" width="64" height="32"/>
+  </tile>
+  <tile id="9">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_10.png" width="64" height="32"/>
+  </tile>
+  <tile id="10">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_11.png" width="128" height="96"/>
+  </tile>
+  <tile id="11">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="12">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_2.png" width="64" height="64"/>
+  </tile>
+  <tile id="13">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="14">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_4.png" width="96" height="96"/>
+  </tile>
+  <tile id="15">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="16">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_6.png" width="96" height="96"/>
+  </tile>
+  <tile id="17">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_7.png" width="96" height="64"/>
+  </tile>
+  <tile id="18">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_8.png" width="64" height="32"/>
+  </tile>
+  <tile id="19">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_9.png" width="64" height="32"/>
+  </tile>
+  <tile id="20">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_rocks_noSand_10.png" width="64" height="64"/>
+  </tile>
+  <tile id="21">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_runic_stone.png" width="96" height="160"/>
+  </tile>
+  <tile id="22">
+   <image source="tiled/ERW - Desert/props/props-sprites/big_runic_stone_base.png" width="256" height="192"/>
+  </tile>
+  <tile id="23">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="24">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="25">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="26">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="27">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="28">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="29">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="30">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="31">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="32">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="33">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="34">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="35">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="36">
+   <image source="tiled/ERW - Desert/props/props-sprites/bones_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="37">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_0.png" width="64" height="64"/>
+  </tile>
+  <tile id="38">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="39">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_2.png" width="64" height="32"/>
+  </tile>
+  <tile id="40">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_3.png" width="64" height="32"/>
+  </tile>
+  <tile id="41">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="42">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="43">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="44">
+   <image source="tiled/ERW - Desert/props/props-sprites/bush_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="45">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="46">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="47">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="48">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="49">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="50">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="51">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="52">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="53">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="54">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="55">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_10.png" width="64" height="64"/>
+  </tile>
+  <tile id="56">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_11.png" width="64" height="64"/>
+  </tile>
+  <tile id="57">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_12.png" width="64" height="64"/>
+  </tile>
+  <tile id="58">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus_13.png" width="64" height="64"/>
+  </tile>
+  <tile id="59">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="60">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="61">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="62">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="63">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="64">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="65">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="66">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="67">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_8.png" width="64" height="64"/>
+  </tile>
+  <tile id="68">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_9.png" width="64" height="32"/>
+  </tile>
+  <tile id="69">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="70">
+   <image source="tiled/ERW - Desert/props/props-sprites/cactus2_11.png" width="64" height="64"/>
+  </tile>
+  <tile id="71">
+   <image source="tiled/ERW - Desert/props/props-sprites/cave_entrance.png" width="192" height="128"/>
+  </tile>
+  <tile id="72">
+   <image source="tiled/ERW - Desert/props/props-sprites/cave_entrance2.png" width="192" height="96"/>
+  </tile>
+  <tile id="73">
+   <image source="tiled/ERW - Desert/props/props-sprites/chest.png" width="64" height="32"/>
+  </tile>
+  <tile id="74">
+   <image source="tiled/ERW - Desert/props/props-sprites/chest_open.png" width="64" height="64"/>
+  </tile>
+  <tile id="75">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="76">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="77">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="78">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="79">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="80">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="81">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="82">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_7.png" width="64" height="64"/>
+  </tile>
+  <tile id="83">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_8.png" width="64" height="64"/>
+  </tile>
+  <tile id="84">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_9.png" width="64" height="64"/>
+  </tile>
+  <tile id="85">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_10.png" width="96" height="64"/>
+  </tile>
+  <tile id="86">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_11.png" width="64" height="96"/>
+  </tile>
+  <tile id="87">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_12.png" width="96" height="64"/>
+  </tile>
+  <tile id="88">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_13.png" width="96" height="96"/>
+  </tile>
+  <tile id="89">
+   <image source="tiled/ERW - Desert/props/props-sprites/crates_14.png" width="96" height="64"/>
+  </tile>
+  <tile id="90">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree1.png" width="160" height="128"/>
+  </tile>
+  <tile id="91">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree1_.png" width="128" height="96"/>
+  </tile>
+  <tile id="92">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree1_base.png" width="96" height="32"/>
+  </tile>
+  <tile id="93">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree1_base2.png" width="96" height="64"/>
+  </tile>
+  <tile id="94">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree2.png" width="128" height="160"/>
+  </tile>
+  <tile id="95">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree2_.png" width="224" height="128"/>
+  </tile>
+  <tile id="96">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree2_base.png" width="128" height="64"/>
+  </tile>
+  <tile id="97">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree2_base2.png" width="128" height="64"/>
+  </tile>
+  <tile id="98">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree3.png" width="160" height="160"/>
+  </tile>
+  <tile id="99">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree3_base.png" width="96" height="32"/>
+  </tile>
+  <tile id="100">
+   <image source="tiled/ERW - Desert/props/props-sprites/dead_tree3_base2.png" width="96" height="32"/>
+  </tile>
+  <tile id="101">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="102">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="103">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="104">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="105">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="106">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="107">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="108">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="109">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_8.png" width="64" height="32"/>
+  </tile>
+  <tile id="110">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_9.png" width="64" height="32"/>
+  </tile>
+  <tile id="111">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_10.png" width="64" height="32"/>
+  </tile>
+  <tile id="112">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation_11.png" width="64" height="64"/>
+  </tile>
+  <tile id="113">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation2_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="114">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry_vegetation2_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="115">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="116">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="117">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="118">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="119">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_4.png" width="64" height="64"/>
+  </tile>
+  <tile id="120">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="121">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_6.png" width="64" height="64"/>
+  </tile>
+  <tile id="122">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_7.png" width="64" height="64"/>
+  </tile>
+  <tile id="123">
+   <image source="tiled/ERW - Desert/props/props-sprites/dry3_vegetation_8.png" width="32" height="64"/>
+  </tile>
+  <tile id="124">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="125">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="126">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="127">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="128">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="129">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="130">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="131">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="132">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_8.png" width="64" height="32"/>
+  </tile>
+  <tile id="133">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_9.png" width="64" height="32"/>
+  </tile>
+  <tile id="134">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_10.png" width="64" height="32"/>
+  </tile>
+  <tile id="135">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_11.png" width="64" height="32"/>
+  </tile>
+  <tile id="136">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_12.png" width="64" height="32"/>
+  </tile>
+  <tile id="137">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_13.png" width="64" height="32"/>
+  </tile>
+  <tile id="138">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_14.png" width="64" height="32"/>
+  </tile>
+  <tile id="139">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_15.png" width="64" height="32"/>
+  </tile>
+  <tile id="140">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_16.png" width="64" height="32"/>
+  </tile>
+  <tile id="141">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_17.png" width="64" height="32"/>
+  </tile>
+  <tile id="142">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_18.png" width="64" height="32"/>
+  </tile>
+  <tile id="143">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass_19.png" width="64" height="32"/>
+  </tile>
+  <tile id="144">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="145">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="146">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="147">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="148">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="149">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="150">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="151">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="152">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="153">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="154">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="155">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="156">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="157">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="158">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="159">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="160">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="161">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_18.png" width="64" height="32"/>
+  </tile>
+  <tile id="162">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_19.png" width="64" height="32"/>
+  </tile>
+  <tile id="163">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass2_21.png" width="64" height="32"/>
+  </tile>
+  <tile id="164">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass10_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="165">
+   <image source="tiled/ERW - Desert/props/props-sprites/grass20_20.png" width="64" height="32"/>
+  </tile>
+  <tile id="166">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree_foliage.png" width="96" height="96"/>
+  </tile>
+  <tile id="167">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree_foliage2.png" width="96" height="96"/>
+  </tile>
+  <tile id="168">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree_trunk.png" width="32" height="128"/>
+  </tile>
+  <tile id="169">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree_trunk_base1.png" width="32" height="32"/>
+  </tile>
+  <tile id="170">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree_trunk_base2.png" width="64" height="32"/>
+  </tile>
+  <tile id="171">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree1.png" width="96" height="160"/>
+  </tile>
+  <tile id="172">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree1_shadow.png" width="96" height="64"/>
+  </tile>
+  <tile id="173">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree2.png" width="96" height="192"/>
+  </tile>
+  <tile id="174">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree2_shadow.png" width="128" height="64"/>
+  </tile>
+  <tile id="175">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree2_trunk.png" width="64" height="160"/>
+  </tile>
+  <tile id="176">
+   <image source="tiled/ERW - Desert/props/props-sprites/palm_tree3_trunk.png" width="64" height="64"/>
+  </tile>
+  <tile id="177">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_0.png" width="96" height="64"/>
+  </tile>
+  <tile id="178">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_1.png" width="96" height="64"/>
+  </tile>
+  <tile id="179">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_2.png" width="96" height="64"/>
+  </tile>
+  <tile id="180">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_3.png" width="96" height="64"/>
+  </tile>
+  <tile id="181">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_4.png" width="96" height="64"/>
+  </tile>
+  <tile id="182">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_5.png" width="96" height="64"/>
+  </tile>
+  <tile id="183">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_6.png" width="96" height="64"/>
+  </tile>
+  <tile id="184">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_7.png" width="96" height="64"/>
+  </tile>
+  <tile id="185">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_0.png" width="64" height="64"/>
+  </tile>
+  <tile id="186">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="187">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_2.png" width="64" height="64"/>
+  </tile>
+  <tile id="188">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="189">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_4.png" width="64" height="64"/>
+  </tile>
+  <tile id="190">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="191">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_6.png" width="64" height="64"/>
+  </tile>
+  <tile id="192">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants_vase_7.png" width="64" height="64"/>
+  </tile>
+  <tile id="193">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants1_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="194">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants1_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="195">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants1_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="196">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants1_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="197">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants1_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="198">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants2_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="199">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants2_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="200">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants2_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="201">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants2_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="202">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants2_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="203">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants3_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="204">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants3_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="205">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants3_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="206">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants3_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="207">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants3_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="208">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants4_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="209">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants4_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="210">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants4_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="211">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants4_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="212">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants4_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="213">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants5_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="214">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants5_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="215">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants5_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="216">
+   <image source="tiled/ERW - Desert/props/props-sprites/plants5_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="217">
+   <image source="tiled/ERW - Desert/props/props-sprites/POI.png" width="128" height="160"/>
+  </tile>
+  <tile id="218">
+   <image source="tiled/ERW - Desert/props/props-sprites/POI2_1.png" width="224" height="192"/>
+  </tile>
+  <tile id="219">
+   <image source="tiled/ERW - Desert/props/props-sprites/POI2_2.png" width="224" height="96"/>
+  </tile>
+  <tile id="220">
+   <image source="tiled/ERW - Desert/props/props-sprites/POI2_3.png" width="160" height="192"/>
+  </tile>
+  <tile id="221">
+   <image source="tiled/ERW - Desert/props/props-sprites/POI3.png" width="256" height="224"/>
+  </tile>
+  <tile id="222">
+   <image source="tiled/ERW - Desert/props/props-sprites/portal.png" width="224" height="256"/>
+  </tile>
+  <tile id="223">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="224">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="225">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="226">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="227">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_4.png" width="64" height="64"/>
+  </tile>
+  <tile id="228">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="229">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_6.png" width="64" height="64"/>
+  </tile>
+  <tile id="230">
+   <image source="tiled/ERW - Desert/props/props-sprites/provision_bags_7.png" width="64" height="64"/>
+  </tile>
+  <tile id="231">
+   <image source="tiled/ERW - Desert/props/props-sprites/sand_path_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="232">
+   <image source="tiled/ERW - Desert/props/props-sprites/sand_path_2.png" width="64" height="96"/>
+  </tile>
+  <tile id="233">
+   <image source="tiled/ERW - Desert/props/props-sprites/sand_path_3.png" width="64" height="64"/>
+  </tile>
+  <tile id="234">
+   <image source="tiled/ERW - Desert/props/props-sprites/sand_path_4.png" width="96" height="64"/>
+  </tile>
+  <tile id="235">
+   <image source="tiled/ERW - Desert/props/props-sprites/sand_path_5.png" width="64" height="64"/>
+  </tile>
+  <tile id="236">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="237">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="238">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_2.png" width="64" height="32"/>
+  </tile>
+  <tile id="239">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_3.png" width="64" height="32"/>
+  </tile>
+  <tile id="240">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_4.png" width="64" height="32"/>
+  </tile>
+  <tile id="241">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_5.png" width="64" height="32"/>
+  </tile>
+  <tile id="242">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="243">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="244">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="245">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="246">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="247">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="248">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="249">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="250">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="251">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="252">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="253">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="254">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="255">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="256">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="257">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="258">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="259">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="260">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_24.png" width="32" height="32"/>
+  </tile>
+  <tile id="261">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_25.png" width="32" height="32"/>
+  </tile>
+  <tile id="262">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_26.png" width="32" height="32"/>
+  </tile>
+  <tile id="263">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_27.png" width="32" height="32"/>
+  </tile>
+  <tile id="264">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_28.png" width="32" height="32"/>
+  </tile>
+  <tile id="265">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_29.png" width="32" height="32"/>
+  </tile>
+  <tile id="266">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_30.png" width="32" height="32"/>
+  </tile>
+  <tile id="267">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_31.png" width="32" height="32"/>
+  </tile>
+  <tile id="268">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_32.png" width="32" height="32"/>
+  </tile>
+  <tile id="269">
+   <image source="tiled/ERW - Desert/props/props-sprites/small_rocks_33.png" width="32" height="32"/>
+  </tile>
+  <tile id="270">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue_base.png" width="64" height="64"/>
+  </tile>
+  <tile id="271">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue1.png" width="64" height="128"/>
+  </tile>
+  <tile id="272">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue1_.png" width="64" height="96"/>
+  </tile>
+  <tile id="273">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue2.png" width="128" height="160"/>
+  </tile>
+  <tile id="274">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue2_.png" width="128" height="128"/>
+  </tile>
+  <tile id="275">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue3.png" width="64" height="96"/>
+  </tile>
+  <tile id="276">
+   <image source="tiled/ERW - Desert/props/props-sprites/statue3_.png" width="64" height="64"/>
+  </tile>
+  <tile id="277">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="278">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="279">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="280">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="281">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="282">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="283">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_6.png" width="32" height="64"/>
+  </tile>
+  <tile id="284">
+   <image source="tiled/ERW - Desert/props/props-sprites/vase_big_7.png" width="32" height="64"/>
+  </tile>
+  <tile id="285">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="286">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="287">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="288">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="289">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="290">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="291">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="292">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="293">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="294">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="295">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="296">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="297">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="298">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="299">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="300">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="301">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="302">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="303">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="304">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="305">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="306">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="307">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="308">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="309">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_24.png" width="32" height="32"/>
+  </tile>
+  <tile id="310">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_25.png" width="32" height="32"/>
+  </tile>
+  <tile id="311">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_26.png" width="32" height="32"/>
+  </tile>
+  <tile id="312">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_27.png" width="32" height="32"/>
+  </tile>
+  <tile id="313">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_28.png" width="32" height="32"/>
+  </tile>
+  <tile id="314">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_29.png" width="32" height="32"/>
+  </tile>
+  <tile id="315">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_30.png" width="32" height="32"/>
+  </tile>
+  <tile id="316">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_31.png" width="32" height="32"/>
+  </tile>
+  <tile id="317">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_32.png" width="32" height="32"/>
+  </tile>
+  <tile id="318">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_33.png" width="32" height="32"/>
+  </tile>
+  <tile id="319">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_34.png" width="32" height="32"/>
+  </tile>
+  <tile id="320">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_35.png" width="32" height="32"/>
+  </tile>
+  <tile id="321">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_36.png" width="32" height="32"/>
+  </tile>
+  <tile id="322">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_37.png" width="32" height="32"/>
+  </tile>
+  <tile id="323">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_38.png" width="32" height="32"/>
+  </tile>
+  <tile id="324">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_39.png" width="32" height="32"/>
+  </tile>
+  <tile id="325">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_40.png" width="32" height="32"/>
+  </tile>
+  <tile id="326">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_41.png" width="32" height="32"/>
+  </tile>
+  <tile id="327">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_42.png" width="32" height="32"/>
+  </tile>
+  <tile id="328">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_43.png" width="32" height="32"/>
+  </tile>
+  <tile id="329">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_44.png" width="32" height="32"/>
+  </tile>
+  <tile id="330">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_45.png" width="32" height="32"/>
+  </tile>
+  <tile id="331">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_46.png" width="32" height="32"/>
+  </tile>
+  <tile id="332">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_47.png" width="32" height="32"/>
+  </tile>
+  <tile id="333">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_48.png" width="32" height="32"/>
+  </tile>
+  <tile id="334">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases_49.png" width="32" height="32"/>
+  </tile>
+  <tile id="335">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="336">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="337">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="338">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="339">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="340">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="341">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="342">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="343">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases2_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="344">
+   <image source="tiled/ERW - Desert/props/props-sprites/vases7_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="345">
+   <image source="tiled/ERW - Desert/props/props-sprites/well_0.png" width="128" height="96"/>
+  </tile>
+  <tile id="346">
+   <image source="tiled/ERW - Desert/props/props-sprites/well_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="347">
+   <image source="tiled/ERW - Desert/props/props-sprites/well_2.png" width="64" height="64"/>
+  </tile>
+  <tile id="348">
+   <image source="tiled/ERW - Desert/props/props-sprites/well_3.png" width="128" height="64"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="2227" name="props3" tilewidth="448" tileheight="384" tilecount="142" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_0.png" width="64" height="32"/>
+  </tile>
+  <tile id="1">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_1.png" width="64" height="32"/>
+  </tile>
+  <tile id="2">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_2.png" width="96" height="64"/>
+  </tile>
+  <tile id="3">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_3.png" width="96" height="64"/>
+  </tile>
+  <tile id="4">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_4.png" width="96" height="64"/>
+  </tile>
+  <tile id="5">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_5.png" width="96" height="64"/>
+  </tile>
+  <tile id="6">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets1-_6.png" width="96" height="64"/>
+  </tile>
+  <tile id="7">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_0.png" width="96" height="64"/>
+  </tile>
+  <tile id="8">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_1.png" width="96" height="64"/>
+  </tile>
+  <tile id="9">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_2.png" width="96" height="64"/>
+  </tile>
+  <tile id="10">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_3.png" width="96" height="64"/>
+  </tile>
+  <tile id="11">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_4.png" width="96" height="64"/>
+  </tile>
+  <tile id="12">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_5.png" width="64" height="32"/>
+  </tile>
+  <tile id="13">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets2-_6.png" width="64" height="32"/>
+  </tile>
+  <tile id="14">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_0.png" width="64" height="64"/>
+  </tile>
+  <tile id="15">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_1.png" width="96" height="64"/>
+  </tile>
+  <tile id="16">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_2.png" width="96" height="64"/>
+  </tile>
+  <tile id="17">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_3.png" width="96" height="64"/>
+  </tile>
+  <tile id="18">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_4.png" width="96" height="64"/>
+  </tile>
+  <tile id="19">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/carpets3-_5.png" width="96" height="64"/>
+  </tile>
+  <tile id="20">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/chest.png" width="64" height="32"/>
+  </tile>
+  <tile id="21">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/chest-open.png" width="64" height="64"/>
+  </tile>
+  <tile id="22">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-entrance.png" width="352" height="192"/>
+  </tile>
+  <tile id="23">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="24">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-left.png" width="160" height="160"/>
+  </tile>
+  <tile id="25">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-left-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="26">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-Left-Right-Top-Bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="27">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-left-top.png" width="160" height="160"/>
+  </tile>
+  <tile id="28">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-left-top-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="29">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-right.png" width="160" height="160"/>
+  </tile>
+  <tile id="30">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-right-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="31">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-right-top.png" width="160" height="160"/>
+  </tile>
+  <tile id="32">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-right-top-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="33">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-top.png" width="160" height="160"/>
+  </tile>
+  <tile id="34">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-joints-top-bot.png" width="160" height="160"/>
+  </tile>
+  <tile id="35">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower.png" width="160" height="160"/>
+  </tile>
+  <tile id="36">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower_.png" width="160" height="160"/>
+  </tile>
+  <tile id="37">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower_s1.png" width="160" height="32"/>
+  </tile>
+  <tile id="38">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower_s2.png" width="160" height="96"/>
+  </tile>
+  <tile id="39">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-detail.png" width="32" height="64"/>
+  </tile>
+  <tile id="40">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-detail2.png" width="32" height="64"/>
+  </tile>
+  <tile id="41">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-detail3.png" width="96" height="96"/>
+  </tile>
+  <tile id="42">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-tent.png" width="96" height="128"/>
+  </tile>
+  <tile id="43">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-towerV.png" width="160" height="160"/>
+  </tile>
+  <tile id="44">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-corner1-up.png" width="32" height="96"/>
+  </tile>
+  <tile id="45">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-corner2-up.png" width="32" height="96"/>
+  </tile>
+  <tile id="46">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-cornerL-down.png" width="32" height="96"/>
+  </tile>
+  <tile id="47">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-cornerR-down.png" width="32" height="96"/>
+  </tile>
+  <tile id="48">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_0.png" width="32" height="96"/>
+  </tile>
+  <tile id="49">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_1.png" width="32" height="96"/>
+  </tile>
+  <tile id="50">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_2.png" width="32" height="96"/>
+  </tile>
+  <tile id="51">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_3.png" width="32" height="96"/>
+  </tile>
+  <tile id="52">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_4.png" width="32" height="96"/>
+  </tile>
+  <tile id="53">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_5.png" width="32" height="96"/>
+  </tile>
+  <tile id="54">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_detail.png" width="32" height="64"/>
+  </tile>
+  <tile id="55">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_detail2.png" width="32" height="64"/>
+  </tile>
+  <tile id="56">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h_detail3.png" width="32" height="64"/>
+  </tile>
+  <tile id="57">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h-6.png" width="32" height="96"/>
+  </tile>
+  <tile id="58">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-h-7.png" width="32" height="96"/>
+  </tile>
+  <tile id="59">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-1.png" width="32" height="32"/>
+  </tile>
+  <tile id="60">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-2.png" width="32" height="32"/>
+  </tile>
+  <tile id="61">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-3.png" width="32" height="32"/>
+  </tile>
+  <tile id="62">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-4.png" width="32" height="32"/>
+  </tile>
+  <tile id="63">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-5.png" width="32" height="32"/>
+  </tile>
+  <tile id="64">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/fortress-tower-wall-v-6.png" width="32" height="32"/>
+  </tile>
+  <tile id="65">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/house2.png" width="192" height="224"/>
+  </tile>
+  <tile id="66">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/house3.png" width="320" height="256"/>
+  </tile>
+  <tile id="67">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses1.png" width="192" height="192"/>
+  </tile>
+  <tile id="68">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses1-.png" width="288" height="192"/>
+  </tile>
+  <tile id="69">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses1-detail.png" width="128" height="128"/>
+  </tile>
+  <tile id="70">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses4.png" width="448" height="288"/>
+  </tile>
+  <tile id="71">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses5.png" width="224" height="224"/>
+  </tile>
+  <tile id="72">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses6.png" width="448" height="320"/>
+  </tile>
+  <tile id="73">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses7.png" width="384" height="288"/>
+  </tile>
+  <tile id="74">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses8.png" width="448" height="384"/>
+  </tile>
+  <tile id="75">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses8-.png" width="128" height="96"/>
+  </tile>
+  <tile id="76">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/houses9.png" width="384" height="224"/>
+  </tile>
+  <tile id="77">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stairs.png" width="32" height="128"/>
+  </tile>
+  <tile id="78">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_0.png" width="64" height="64"/>
+  </tile>
+  <tile id="79">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="80">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="81">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="82">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="83">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="84">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="85">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="86">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="87">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="88">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="89">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="90">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="91">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="92">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="93">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="94">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="95">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="96">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="97">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="98">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="99">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="100">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="101">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="102">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_24.png" width="32" height="32"/>
+  </tile>
+  <tile id="103">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_25.png" width="32" height="32"/>
+  </tile>
+  <tile id="104">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_26.png" width="32" height="32"/>
+  </tile>
+  <tile id="105">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_27.png" width="32" height="32"/>
+  </tile>
+  <tile id="106">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_28.png" width="32" height="32"/>
+  </tile>
+  <tile id="107">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_29.png" width="32" height="32"/>
+  </tile>
+  <tile id="108">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_30.png" width="32" height="32"/>
+  </tile>
+  <tile id="109">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_31.png" width="32" height="32"/>
+  </tile>
+  <tile id="110">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_32.png" width="32" height="32"/>
+  </tile>
+  <tile id="111">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_33.png" width="32" height="32"/>
+  </tile>
+  <tile id="112">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_34.png" width="32" height="32"/>
+  </tile>
+  <tile id="113">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/stone fences_35.png" width="32" height="32"/>
+  </tile>
+  <tile id="114">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/tent1.png" width="256" height="192"/>
+  </tile>
+  <tile id="115">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/tent2.png" width="192" height="192"/>
+  </tile>
+  <tile id="116">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/tent3.png" width="320" height="224"/>
+  </tile>
+  <tile id="117">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/tent5.png" width="224" height="160"/>
+  </tile>
+  <tile id="118">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="119">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="120">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="121">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="122">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="123">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="124">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="125">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="126">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="127">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="128">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="129">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="130">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="131">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="132">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="133">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="134">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="135">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="136">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="137">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="138">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="139">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="140">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="141">
+   <image source="tiled/ERW - Desert/props/props-houses-sprites/wooden fences_23.png" width="32" height="32"/>
+  </tile>
+ </tileset>
+ <layer id="2" name="Camada de Blocos 2" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="Areia" width="40" height="40">
+  <data encoding="csv">
+1864,1855,1864,1856,1855,1856,1864,1856,1856,1856,1857,1855,1864,1864,1848,1848,1855,1856,1848,1848,1848,1848,1848,1864,1848,1864,1848,1864,1848,1848,1856,1856,1848,1864,1864,1864,1848,1848,1856,1864,
+1848,1857,1857,1856,1856,1848,1848,1848,1855,1857,1855,1857,1855,1864,1857,1848,1848,1856,1848,1856,1848,1856,1848,1864,1848,1864,1848,1864,1848,1856,1864,1864,1848,1848,1848,1848,1848,1848,1864,1864,
+1848,1856,1855,1864,1857,1848,1864,1855,1855,1857,1848,1855,1848,1848,1857,1856,1856,1856,1848,1864,1856,1864,1856,1848,1848,1864,1856,1864,1848,1864,1864,1864,1848,1856,1856,1856,1856,1848,1864,1864,
+1856,1856,1864,1864,1856,1864,1864,1864,1848,1856,1857,1857,1857,1855,1856,1856,1864,1856,1856,1864,1864,1848,1864,1848,1848,1864,1864,1848,1856,1864,1864,1848,1856,1848,1864,1848,1864,1848,1864,1864,
+1857,1848,1856,1855,1857,1855,1856,1855,1855,1857,1855,1848,1855,1855,1856,1857,1857,1856,1864,1864,1864,1848,1848,1856,1848,1848,1864,1856,1864,1864,1864,1848,1864,1848,1848,1848,1864,1848,1864,1864,
+1855,1856,1857,1857,1855,1856,1857,1848,1848,1855,1855,1855,1856,1864,1856,1848,1857,1856,1864,1848,1864,1848,1848,1864,1848,1848,1864,1864,1864,1848,1864,1848,1856,1856,1856,1848,1864,1848,1864,1848,
+1864,1848,1857,1857,1856,1857,1856,1857,1855,1857,1864,1864,1855,1864,1864,1864,1856,1856,1864,1848,1864,1848,1848,1864,1848,1848,1864,1864,1864,1856,1864,1848,1864,1864,1864,1848,1848,1848,1848,1848,
+1855,1864,1855,1848,1856,1855,1848,1857,1856,1856,1848,1856,1855,1856,1848,1864,1855,1856,1864,1848,1864,1848,1848,1864,1848,1848,1864,1864,1864,1864,1864,1856,1856,1864,1848,1848,1856,1848,1848,1848,
+1864,1856,1864,1855,1848,1848,1857,1855,1856,1855,1855,1855,1848,1856,1848,1856,1855,1856,1864,1848,1864,1848,1848,1864,1856,1848,1864,1864,1864,1864,1864,1864,1864,1864,1848,1848,1848,1848,1848,1848,
+1856,1856,1848,1855,1848,1855,1856,1855,1855,1857,1864,1855,1864,1864,1856,1856,1855,1856,1864,1848,1864,1848,1848,1864,1864,1848,1864,1864,1864,1848,1864,1848,1864,1864,1856,1856,1848,1848,1848,1848,
+1855,1857,1855,1856,1848,1848,1857,1855,1857,1855,1856,1848,1864,1855,1856,1856,1855,1856,1864,1848,1864,1848,1848,1864,1864,1848,1864,1864,1864,1848,1864,1856,1848,1864,1864,1864,1848,1848,1848,1848,
+1864,1848,1857,1856,1855,1855,1848,1864,1857,1856,1856,1856,1848,1856,1856,1856,1855,1856,1864,1848,1864,1848,1848,1864,1848,1856,1864,1864,1864,1856,1856,1864,1848,1864,1848,1864,1848,1848,1848,1848,
+1855,1855,1848,1855,1848,1857,1855,1855,1864,1864,1848,1856,1856,1856,1856,1856,1855,1856,1864,1848,1848,1848,1848,1864,1848,1864,1864,1848,1848,1864,1864,1848,1848,1864,1856,1864,1848,1848,1856,1848,
+1855,1848,1848,1855,1855,1856,1848,1848,1856,1864,1856,1856,1856,1856,1856,1856,1855,1856,1864,1848,1856,1848,1848,1864,1848,1864,1848,1848,1856,1864,1848,1848,1856,1864,1864,1848,1848,1856,1864,1848,
+1848,1848,1856,1855,1856,1857,1864,1856,1856,1855,1856,1856,1856,1856,1856,1856,1855,1856,1864,1856,1864,1848,1848,1864,1848,1864,1848,1848,1864,1848,1848,1856,1864,1848,1848,1848,1848,1848,1848,1848,
+1855,1848,1855,1856,1856,1857,1856,1857,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1848,1856,1864,1848,1848,1848,1848,1864,1848,1856,1864,1864,1848,1848,1848,1848,1848,1856,1856,
+1855,1857,1856,1856,1857,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1848,1864,1856,1864,1864,1848,1848,1848,1856,1848,1856,1864,1864,1848,1856,1856,1848,1848,1856,1864,1864,
+1856,1864,1856,1856,1856,1857,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1848,1848,1864,1864,1856,1864,1856,1848,1856,1864,1856,1864,1864,1848,1856,1864,1864,1856,1856,1864,1848,1864,
+1856,1856,1856,1856,1856,1857,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1855,1856,1848,1856,1864,1864,1864,1864,1864,1856,1864,1856,1864,1864,1848,1856,1864,1856,1856,1864,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1848,1864,1848,1856,1864,1864,1864,1864,1848,1864,1864,1856,1856,1864,1856,1864,1864,1848,1848,1856,1856,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1848,1864,1848,1864,1864,1864,1864,1864,1856,1856,1856,1864,1864,1864,1864,1848,1848,1848,1848,1848,1848,1856,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1848,1864,1856,1864,1856,1864,1864,1856,1864,1864,1864,1864,1864,1864,1848,1856,1856,1856,1856,1856,1856,1864,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1848,1856,1856,1864,1864,1864,1864,1864,1864,1856,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1864,1856,1864,1864,1856,1848,1864,1864,1848,1848,1856,1864,1848,1848,1864,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1848,1848,1856,1864,1864,1856,1864,1856,1848,1864,1848,1848,1864,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1856,1864,1864,1864,1848,1848,1864,1864,1856,1864,1856,1864,1848,1864,1848,1856,1848,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1848,1848,1856,1856,1864,1856,1864,1856,1864,1848,1848,1848,1848,1864,1856,1864,1848,1856,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1848,1848,1856,1864,1864,1864,1864,1856,1864,1864,1848,1848,1856,1848,1864,1864,1864,1848,1864,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1848,1848,1848,1864,1864,1856,1856,1864,1864,1848,1864,1848,1848,1864,1848,1864,1864,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1848,1848,1856,1856,1864,1864,1864,1864,1856,1848,1848,1864,1856,1848,1864,1848,1864,1864,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1848,1856,1864,1856,1848,1864,1864,1848,1848,1848,1864,1864,1848,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1856,1848,1864,1864,1856,1864,1848,1864,1848,1856,1864,1856,1848,1856,1864,1864,1848,1856,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1848,1848,1864,1864,1864,1848,1864,1848,1864,1864,1864,1848,1864,1864,1864,1848,1864,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1856,1856,1864,1864,1864,1848,1864,1848,1864,1856,1864,1856,1856,1856,1864,1848,1864,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1864,1856,1864,1856,1864,1864,1864,1864,1864,1864,1864,1848,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1864,1864,1856,1856,1864,1856,1856,1856,1856,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,1864,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1848,1848,1848,1848,1864,1856,1864,1848,1848,1848,1848,1848,1848,1848,1856,1864,1848,1848,1864,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1856,1856,1856,1856,1856,1856,1864,1864,1864,1848,1848,1848,1856,1856,1856,1856,1864,1864,1848,1848,1848,
+1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1864,1864,1864,1856,1856,1856,1856,1856,1856,1864,1864,1864,1864,1856,1856,1856,1856,1856
+</data>
+ </layer>
+ <layer id="4" name="Chao_Deserto" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,807,808,809,810,811,812,813,814,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,838,839,840,841,842,843,844,845,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,869,870,871,872,873,874,875,876,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,900,901,902,903,904,905,906,907,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,931,932,933,934,935,936,937,938,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,962,963,964,965,966,967,968,969,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,109,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,136,109,127,208,91,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,807,808,809,810,811,812,813,814,0,0,154,181,181,181,163,91,109,109,109,82,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,838,839,840,841,842,843,844,845,0,0,0,0,0,0,154,181,181,181,163,91,82,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,869,870,871,872,873,874,875,876,0,0,0,0,0,0,0,0,0,0,154,163,91,109,82,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,900,901,902,903,904,905,906,907,0,0,0,0,0,0,0,0,0,0,0,172,181,163,91,109,109,82,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,931,932,933,934,935,936,937,938,0,0,0,0,0,0,0,0,0,0,0,0,0,172,181,181,163,91,109,109,109,109,100,0,
+0,0,0,0,0,0,0,0,962,963,964,965,966,967,968,969,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,181,181,181,181,163,91,109,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,181,181
+</data>
+ </layer>
+ <layer id="10" name="Pedras_deserto" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,2114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2138,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,2138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,2141,2119,0,0,0,0,0,0,0,0,0,0,0,0,2129,0,0,2120,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,2129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2124,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,2130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,2133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2124,0,0,0,0,2146,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,2147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2123,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="12" name="Mato_Deserto" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,2080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2081,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2085,2075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,2076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,2083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2093,2088,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,2073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,2071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2087,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,2075,0,0,0,0,0,0,0,0,0,0,0,0,0,2078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2080,0,0,0,0,0,0,0,0,0,2085,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2089,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2088,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2087,0,0,0,0,0,0,0,0,0,0,2074,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,2094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2078,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2074,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2078,0,0,0,0,0,0,0,0,0,0,0,0,2080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="9" name="Predios_deserto" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,2293,0,0,0,0,0,0,0,0,0,0,0,2294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2240,0,0,0,0,0,0,0,2228,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2341,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="11" name="Arvores_deserto" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,1930,0,0,0,0,0,0,0,0,0,1940,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1945,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1932,0,0,0,0,0,0,0,0,0,0,0,0,1937,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,2051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2051,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,1976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1948,0,0,0,0,
+0,0,0,0,0,1948,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,2051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1945,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,1923,0,0,0,0,0,1940,0,0,0,0,0,0,0,0,0,0,0,0,0,2051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1936,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,2343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1976,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1968,0,0,0,0,0,0,0,0,0,0,1942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,1941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2051,0,0,0,0,0,0,0,
+0,0,2049,0,0,0,0,0,1925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,1935,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2049,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

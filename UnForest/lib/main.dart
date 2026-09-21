@@ -2,6 +2,7 @@ import 'package:bonfire/bonfire.dart';
 import 'package:flutter/material.dart';
 import 'character_selection_page.dart';
 import 'home_page.dart';
+import 'biomas.dart';
 import 'game/game_page.dart';
 
 void main() async {
@@ -12,17 +13,15 @@ void main() async {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      //home: const CharacterSelectionPage(), // Tela inicial
-      //home: const GamePage(), // Tela inicial
-      home: const HomePage(), // Tela inicial
+      home: const HomePage(), // Tela inicial do jogo
       
-      // Definição das rotas nomeadas do jogo
+      // Definição das rotas nomeadas
       routes: {
         '/home': (context) => const HomePage(),
         '/character_selection': (context) => const CharacterSelectionPage(),
-        '/game': (context) => const GamePage(),
+        '/biomas': (context) => const BiomasPage(),
+        //'/game': (context) => const GamePage(),
       },
     ),
   );
 }
-

@@ -1,0 +1,434 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.75
+        },
+        "#Atlas-Props-Sprites": {
+            "dynamicWrapping": true
+        },
+        "#Atlas-Props-sheet1-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33
+        },
+        "#Atlas-Props-sheet2-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "#Atlas-props-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "#Props_Deserto1": {
+            "dynamicWrapping": false
+        },
+        "#Props_praia": {
+            "scaleInDock": 0.33
+        },
+        "#Terrain - Highlands": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#Tileset - Terrain - new grass2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "#beach - with thick foam": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#deep sea": {
+            "dynamicWrapping": false
+        },
+        "#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "#props1": {
+            "dynamicWrapping": true
+        },
+        "#props3": {
+            "dynamicWrapping": true
+        },
+        "#teste": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa_cidade.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 757,
+                "y": 723
+            }
+        },
+        "mapa_cidade.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Atlas-Props-sheet2-sprites": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Atlas-props-sprites": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Premade_houses": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade.tmx#props(as sprites)": {
+            "scaleInDock": 1
+        },
+        "mapa_cidade_feia.tmx": {
+            "scale": 0.639765625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 640.0781536207107,
+                "y": 443.13102942972284
+            }
+        },
+        "mapa_cidade_feia.tmx#Atlas-Props-Sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125
+        },
+        "mapa_cidade_feia.tmx#Atlas-Props-sheet2-sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "mapa_cidade_feia.tmx#Atlas-props-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.0625
+        },
+        "mapa_cidade_feia.tmx#Premade_houses": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33
+        },
+        "mapa_cidade_feia.tmx#Tileset - Terrain - new grass2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa_cidade_feia.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 0.33
+        },
+        "mapa_cidade_feia.tmx#props(as sprites)": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "mapa_deserto.tmx": {
+            "scale": 0.639765625,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 640.0781536207107,
+                "y": 640.0781536207107
+            }
+        },
+        "mapa_deserto.tmx#Areia": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_deserto.tmx#Props_Deserto1": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto.tmx#deep sea": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto.tmx#props1": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto.tmx#props3": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto_feio.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 599.3333333333333,
+                "y": 762
+            }
+        },
+        "mapa_deserto_feio.tmx#Areia": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto_feio.tmx#Props_Deserto1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_deserto_feio.tmx#deep sea": {
+            "scaleInDock": 1
+        },
+        "mapa_deserto_feio.tmx#props1": {
+            "scaleInDock": 0.25
+        },
+        "mapa_deserto_feio.tmx#props3": {
+            "scaleInDock": 0.25
+        },
+        "mapa_floresta.tmx": {
+            "scale": 0.639765625,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 640.0781536207107,
+                "y": 640.0781536207107
+            }
+        },
+        "mapa_floresta.tmx#Atlas-Props-sheet1-sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_floresta.tmx#Atlas-Props-sheet2-sprites": {
+            "scaleInDock": 1
+        },
+        "mapa_floresta.tmx#Terrain - Highlands": {
+            "scaleInDock": 1
+        },
+        "mapa_floresta.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "mapa_floresta_feia.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 635.3333333333333,
+                "y": 526
+            }
+        },
+        "mapa_floresta_feia.tmx#Atlas-Props-sheet1-sprites": {
+            "scaleInDock": 0.33
+        },
+        "mapa_floresta_feia.tmx#Atlas-Props-sheet2-sprites": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "mapa_floresta_feia.tmx#Terrain - Highlands": {
+            "scaleInDock": 1
+        },
+        "mapa_floresta_feia.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "mapa_neve.tmx": {
+            "scale": 0.639765625,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 640.0781536207107,
+                "y": 640.0781536207107
+            }
+        },
+        "mapa_neve.tmx#Atlas-Props-Sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_neve.tmx#Terrain - Highlands": {
+            "scaleInDock": 1
+        },
+        "mapa_neve_feia.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 805,
+                "y": 637
+            }
+        },
+        "mapa_neve_feia.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 0.25
+        },
+        "mapa_neve_feia.tmx#Terrain - Highlands": {
+            "scaleInDock": 0.125
+        },
+        "mapa_praia.tmx": {
+            "scale": 0.639765625,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 640.0781536207107,
+                "y": 640.0781536207107
+            }
+        },
+        "mapa_praia.tmx#Atlas-props-sprites": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#Props_praia": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#beach - with thick foam": {
+            "scaleInDock": 1
+        },
+        "mapa_praia.tmx#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "mapa_praia_feia.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 611,
+                "y": 621
+            }
+        },
+        "mapa_praia_feia.tmx#Atlas-props-sprites": {
+            "scaleInDock": 0.25
+        },
+        "mapa_praia_feia.tmx#Props_praia": {
+            "scaleInDock": 0.33
+        },
+        "mapa_praia_feia.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "mapa_praia_feia.tmx#beach - with thick foam": {
+            "scaleInDock": 1
+        },
+        "mapa_praia_feia.tmx#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx": {
+            "scale": 0.34120833333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1200.1465380388324,
+                "y": 1200.1465380388324
+            }
+        },
+        "sem título.tmx#Animated water tiles": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Atlas-Props-sheet1": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Atlas-Props-sheet1-sprites": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Atlas-Props-sheet2-sprites": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Atlas-props-sheet3-sprites": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#Tilesets and props Demo": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#platform -grass2 to water-spritesheet": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx#platform -water to grass2 - river orientation": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx": {
+            "scale": 0.25590624999999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1600.195384051777,
+                "y": 1600.195384051777
+            }
+        },
+        "teste_mapa.tmx#Areia": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-Sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-sheet1-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-Props-sheet2-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Atlas-props-sprites": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Beach-transition tiles between coast platform(grass2) and beach": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Grama_Areia": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Oasis": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Premade_houses": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props-neve": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_Deserto1": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_Deserto2": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Props_praia": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Terrain - Highlands": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset - Terrain - new grass2": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset-Terrain": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tileset_deserto": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#Tilesets-GL2SA": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#beach - with thick foam": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#deep sea": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#platform - grass2 - coast - spritesheet": {
+            "scaleInDock": 1
+        },
+        "teste_mapa.tmx#props(as sprites)": {
+            "scaleInDock": 1
+        },
+        "tiled/ERW - Volcano/TiledMap Editor/Tilesets/Atlas-props-sprites.tsx": {
+            "scaleInDock": 0.125
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Rogério Bicalho/Desktop/Unforest/Trabalho-Interdisciplinar-4---UnForest/UnForest/assets/images",
+    "last.externalTilesetPath": "C:/Users/Rogério Bicalho/Desktop/Unforest/Trabalho-Interdisciplinar-4---UnForest/UnForest/assets/images/tiled/ERW - Volcano/TiledMap Editor/Tilesets",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "2",
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "mapa_feio.tiled-project",
+    "recentFiles": [
+        "mapa_cidade_feia.tmx",
+        "teste_mapa.tmx",
+        "sem título.tmx",
+        "mapa_deserto.tmx",
+        "mapa_deserto_feio.tmx",
+        "mapa_praia_feia.tmx",
+        "mapa_praia.tmx",
+        "mapa_neve.tmx",
+        "mapa_neve_feia.tmx",
+        "mapa_cidade.tmx",
+        "mapa_floresta.tmx",
+        "mapa_floresta_feia.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Ficheiros de conjunto de tiles Tiled (*.tsx *.xml)",
+    "tileset.type": 1
+}

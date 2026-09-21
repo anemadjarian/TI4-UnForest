@@ -18,6 +18,8 @@ dependencies:
   a_star_algorithm: ^0.4.1
   http: ^1.2.2
   tiledjsonreader: ^1.4.1
+  audioplayers: ^6.0.0
+  sensors_plus: ^7.1.0
 
 dev_dependencies:
   flutter_test:
@@ -40,9 +42,23 @@ flutter:
     - assets/images/tiled/EPIC RPG World Pack Grass/Tilesets and props/
     - assets/images/tiled/ERW-Grass Land/Props/Atlas-Props-individual sprites/
     - assets/images/characters/
+    - assets/images/task-floresta/
     - assets/images/buttons/
-    - assets/images/criadores/
+    - assets/images/task-cidade/
+    - assets/images/task-gelo/
     - assets/videos/
     - assets/images/tiled/ERW - The Village/buildings/
     - assets/images/tiled/ERW - The Village/tilesets and props/props-sprites/
     - assets/images/tiled/ERW - The Village/tilesets and props/
+    - assets/images/tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/
+    - assets/images/tiled/ERW-Sea Adventures-GL2 Expansion/props/
+    - assets/images/tiled/ERW-Sea Adventures-GL2 Expansion/Tilesets/
+    - assets/images/tiled/ERW - Highlands/tilesets and props/
+    - assets/images/tiled/ERW - Highlands/tilesets and props/props-sprites/
+    - assets/images/tiled/ERW - Desert/tilesets/
+    - assets/images/tiled/ERW - Desert/props/
+    - assets/images/tiled/ERW - Desert/props/props2-sprites/
+    - assets/images/tiled/ERW - Desert/props/props-sprites/
+    - assets/images/tiled/ERW - Desert/props/props-houses-sprites/
+    - assets/images/task-deserto/
+    - assets/images/task_praia/

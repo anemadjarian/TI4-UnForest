@@ -1,0 +1,2986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="left-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="10" nextobjectid="1">
+ <tileset firstgid="1" name="beach - with thick foam" tilewidth="32" tileheight="32" tilecount="510" columns="34">
+  <image source="tiled/ERW-Sea Adventures-GL2 Expansion/Tilesets/beach - standard - with thick foam - spritesheet.png" width="1088" height="480"/>
+  <tile id="34">
+   <animation>
+    <frame tileid="34" duration="100"/>
+    <frame tileid="425" duration="100"/>
+    <frame tileid="426" duration="100"/>
+    <frame tileid="427" duration="100"/>
+    <frame tileid="428" duration="100"/>
+    <frame tileid="429" duration="100"/>
+    <frame tileid="430" duration="100"/>
+    <frame tileid="431" duration="100"/>
+    <frame tileid="432" duration="100"/>
+    <frame tileid="433" duration="100"/>
+    <frame tileid="434" duration="100"/>
+    <frame tileid="435" duration="100"/>
+    <frame tileid="436" duration="100"/>
+    <frame tileid="437" duration="100"/>
+    <frame tileid="438" duration="100"/>
+    <frame tileid="439" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="35">
+   <animation>
+    <frame tileid="35" duration="100"/>
+    <frame tileid="340" duration="100"/>
+    <frame tileid="341" duration="100"/>
+    <frame tileid="342" duration="100"/>
+    <frame tileid="343" duration="100"/>
+    <frame tileid="344" duration="100"/>
+    <frame tileid="345" duration="100"/>
+    <frame tileid="346" duration="100"/>
+    <frame tileid="347" duration="100"/>
+    <frame tileid="348" duration="100"/>
+    <frame tileid="349" duration="100"/>
+    <frame tileid="350" duration="100"/>
+    <frame tileid="351" duration="100"/>
+    <frame tileid="352" duration="100"/>
+    <frame tileid="353" duration="100"/>
+    <frame tileid="354" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="36">
+   <animation>
+    <frame tileid="36" duration="100"/>
+    <frame tileid="306" duration="100"/>
+    <frame tileid="307" duration="100"/>
+    <frame tileid="308" duration="100"/>
+    <frame tileid="309" duration="100"/>
+    <frame tileid="310" duration="100"/>
+    <frame tileid="311" duration="100"/>
+    <frame tileid="312" duration="100"/>
+    <frame tileid="313" duration="100"/>
+    <frame tileid="314" duration="100"/>
+    <frame tileid="315" duration="100"/>
+    <frame tileid="316" duration="100"/>
+    <frame tileid="317" duration="100"/>
+    <frame tileid="318" duration="100"/>
+    <frame tileid="319" duration="100"/>
+    <frame tileid="320" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="37">
+   <animation>
+    <frame tileid="37" duration="100"/>
+    <frame tileid="272" duration="100"/>
+    <frame tileid="273" duration="100"/>
+    <frame tileid="274" duration="100"/>
+    <frame tileid="275" duration="100"/>
+    <frame tileid="276" duration="100"/>
+    <frame tileid="277" duration="100"/>
+    <frame tileid="278" duration="100"/>
+    <frame tileid="279" duration="100"/>
+    <frame tileid="280" duration="100"/>
+    <frame tileid="281" duration="100"/>
+    <frame tileid="282" duration="100"/>
+    <frame tileid="283" duration="100"/>
+    <frame tileid="284" duration="100"/>
+    <frame tileid="285" duration="100"/>
+    <frame tileid="286" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="38">
+   <animation>
+    <frame tileid="38" duration="100"/>
+    <frame tileid="459" duration="100"/>
+    <frame tileid="460" duration="100"/>
+    <frame tileid="461" duration="100"/>
+    <frame tileid="462" duration="100"/>
+    <frame tileid="463" duration="100"/>
+    <frame tileid="464" duration="100"/>
+    <frame tileid="465" duration="100"/>
+    <frame tileid="466" duration="100"/>
+    <frame tileid="467" duration="100"/>
+    <frame tileid="468" duration="100"/>
+    <frame tileid="469" duration="100"/>
+    <frame tileid="470" duration="100"/>
+    <frame tileid="471" duration="100"/>
+    <frame tileid="472" duration="100"/>
+    <frame tileid="473" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="68">
+   <animation>
+    <frame tileid="68" duration="100"/>
+    <frame tileid="408" duration="100"/>
+    <frame tileid="409" duration="100"/>
+    <frame tileid="410" duration="100"/>
+    <frame tileid="411" duration="100"/>
+    <frame tileid="412" duration="100"/>
+    <frame tileid="413" duration="100"/>
+    <frame tileid="414" duration="100"/>
+    <frame tileid="415" duration="100"/>
+    <frame tileid="416" duration="100"/>
+    <frame tileid="417" duration="100"/>
+    <frame tileid="418" duration="100"/>
+    <frame tileid="419" duration="100"/>
+    <frame tileid="420" duration="100"/>
+    <frame tileid="421" duration="100"/>
+    <frame tileid="422" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="69">
+   <animation>
+    <frame tileid="69" duration="100"/>
+    <frame tileid="374" duration="100"/>
+    <frame tileid="375" duration="100"/>
+    <frame tileid="376" duration="100"/>
+    <frame tileid="377" duration="100"/>
+    <frame tileid="378" duration="100"/>
+    <frame tileid="379" duration="100"/>
+    <frame tileid="380" duration="100"/>
+    <frame tileid="381" duration="100"/>
+    <frame tileid="382" duration="100"/>
+    <frame tileid="383" duration="100"/>
+    <frame tileid="384" duration="100"/>
+    <frame tileid="385" duration="100"/>
+    <frame tileid="386" duration="100"/>
+    <frame tileid="387" duration="100"/>
+    <frame tileid="388" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="71">
+   <animation>
+    <frame tileid="71" duration="100"/>
+    <frame tileid="210" duration="100"/>
+    <frame tileid="211" duration="100"/>
+    <frame tileid="212" duration="100"/>
+    <frame tileid="213" duration="100"/>
+    <frame tileid="214" duration="100"/>
+    <frame tileid="215" duration="100"/>
+    <frame tileid="216" duration="100"/>
+    <frame tileid="217" duration="100"/>
+    <frame tileid="218" duration="100"/>
+    <frame tileid="219" duration="100"/>
+    <frame tileid="220" duration="100"/>
+    <frame tileid="221" duration="100"/>
+    <frame tileid="222" duration="100"/>
+    <frame tileid="223" duration="100"/>
+    <frame tileid="224" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="72">
+   <animation>
+    <frame tileid="72" duration="100"/>
+    <frame tileid="176" duration="100"/>
+    <frame tileid="177" duration="100"/>
+    <frame tileid="178" duration="100"/>
+    <frame tileid="179" duration="100"/>
+    <frame tileid="180" duration="100"/>
+    <frame tileid="181" duration="100"/>
+    <frame tileid="182" duration="100"/>
+    <frame tileid="183" duration="100"/>
+    <frame tileid="184" duration="100"/>
+    <frame tileid="185" duration="100"/>
+    <frame tileid="186" duration="100"/>
+    <frame tileid="187" duration="100"/>
+    <frame tileid="188" duration="100"/>
+    <frame tileid="189" duration="100"/>
+    <frame tileid="190" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="102">
+   <animation>
+    <frame tileid="102" duration="100"/>
+    <frame tileid="442" duration="100"/>
+    <frame tileid="443" duration="100"/>
+    <frame tileid="444" duration="100"/>
+    <frame tileid="445" duration="100"/>
+    <frame tileid="446" duration="100"/>
+    <frame tileid="447" duration="100"/>
+    <frame tileid="448" duration="100"/>
+    <frame tileid="449" duration="100"/>
+    <frame tileid="450" duration="100"/>
+    <frame tileid="451" duration="100"/>
+    <frame tileid="452" duration="100"/>
+    <frame tileid="453" duration="100"/>
+    <frame tileid="454" duration="100"/>
+    <frame tileid="455" duration="100"/>
+    <frame tileid="456" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="106">
+   <animation>
+    <frame tileid="106" duration="100"/>
+    <frame tileid="142" duration="100"/>
+    <frame tileid="143" duration="100"/>
+    <frame tileid="144" duration="100"/>
+    <frame tileid="145" duration="100"/>
+    <frame tileid="146" duration="100"/>
+    <frame tileid="147" duration="100"/>
+    <frame tileid="148" duration="100"/>
+    <frame tileid="149" duration="100"/>
+    <frame tileid="150" duration="100"/>
+    <frame tileid="151" duration="100"/>
+    <frame tileid="152" duration="100"/>
+    <frame tileid="153" duration="100"/>
+    <frame tileid="154" duration="100"/>
+    <frame tileid="155" duration="100"/>
+    <frame tileid="156" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="136">
+   <animation>
+    <frame tileid="136" duration="100"/>
+    <frame tileid="289" duration="100"/>
+    <frame tileid="290" duration="100"/>
+    <frame tileid="291" duration="100"/>
+    <frame tileid="292" duration="100"/>
+    <frame tileid="293" duration="100"/>
+    <frame tileid="294" duration="100"/>
+    <frame tileid="295" duration="100"/>
+    <frame tileid="296" duration="100"/>
+    <frame tileid="297" duration="100"/>
+    <frame tileid="298" duration="100"/>
+    <frame tileid="299" duration="100"/>
+    <frame tileid="300" duration="100"/>
+    <frame tileid="301" duration="100"/>
+    <frame tileid="302" duration="100"/>
+    <frame tileid="303" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="137">
+   <animation>
+    <frame tileid="137" duration="100"/>
+    <frame tileid="323" duration="100"/>
+    <frame tileid="324" duration="100"/>
+    <frame tileid="325" duration="100"/>
+    <frame tileid="326" duration="100"/>
+    <frame tileid="327" duration="100"/>
+    <frame tileid="328" duration="100"/>
+    <frame tileid="329" duration="100"/>
+    <frame tileid="330" duration="100"/>
+    <frame tileid="331" duration="100"/>
+    <frame tileid="332" duration="100"/>
+    <frame tileid="333" duration="100"/>
+    <frame tileid="334" duration="100"/>
+    <frame tileid="335" duration="100"/>
+    <frame tileid="336" duration="100"/>
+    <frame tileid="337" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="139">
+   <animation>
+    <frame tileid="139" duration="100"/>
+    <frame tileid="74" duration="100"/>
+    <frame tileid="75" duration="100"/>
+    <frame tileid="76" duration="100"/>
+    <frame tileid="77" duration="100"/>
+    <frame tileid="78" duration="100"/>
+    <frame tileid="79" duration="100"/>
+    <frame tileid="80" duration="100"/>
+    <frame tileid="81" duration="100"/>
+    <frame tileid="82" duration="100"/>
+    <frame tileid="83" duration="100"/>
+    <frame tileid="84" duration="100"/>
+    <frame tileid="85" duration="100"/>
+    <frame tileid="86" duration="100"/>
+    <frame tileid="87" duration="100"/>
+    <frame tileid="88" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="140">
+   <animation>
+    <frame tileid="140" duration="100"/>
+    <frame tileid="108" duration="100"/>
+    <frame tileid="109" duration="100"/>
+    <frame tileid="110" duration="100"/>
+    <frame tileid="111" duration="100"/>
+    <frame tileid="112" duration="100"/>
+    <frame tileid="113" duration="100"/>
+    <frame tileid="114" duration="100"/>
+    <frame tileid="115" duration="100"/>
+    <frame tileid="116" duration="100"/>
+    <frame tileid="117" duration="100"/>
+    <frame tileid="118" duration="100"/>
+    <frame tileid="119" duration="100"/>
+    <frame tileid="120" duration="100"/>
+    <frame tileid="121" duration="100"/>
+    <frame tileid="122" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="171">
+   <animation>
+    <frame tileid="171" duration="100"/>
+    <frame tileid="357" duration="100"/>
+    <frame tileid="358" duration="100"/>
+    <frame tileid="359" duration="100"/>
+    <frame tileid="360" duration="100"/>
+    <frame tileid="361" duration="100"/>
+    <frame tileid="362" duration="100"/>
+    <frame tileid="363" duration="100"/>
+    <frame tileid="364" duration="100"/>
+    <frame tileid="365" duration="100"/>
+    <frame tileid="366" duration="100"/>
+    <frame tileid="367" duration="100"/>
+    <frame tileid="368" duration="100"/>
+    <frame tileid="369" duration="100"/>
+    <frame tileid="370" duration="100"/>
+    <frame tileid="371" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="172">
+   <animation>
+    <frame tileid="172" duration="100"/>
+    <frame tileid="391" duration="100"/>
+    <frame tileid="392" duration="100"/>
+    <frame tileid="393" duration="100"/>
+    <frame tileid="394" duration="100"/>
+    <frame tileid="395" duration="100"/>
+    <frame tileid="396" duration="100"/>
+    <frame tileid="397" duration="100"/>
+    <frame tileid="398" duration="100"/>
+    <frame tileid="399" duration="100"/>
+    <frame tileid="400" duration="100"/>
+    <frame tileid="401" duration="100"/>
+    <frame tileid="402" duration="100"/>
+    <frame tileid="403" duration="100"/>
+    <frame tileid="404" duration="100"/>
+    <frame tileid="405" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="173">
+   <animation>
+    <frame tileid="173" duration="100"/>
+    <frame tileid="40" duration="100"/>
+    <frame tileid="41" duration="100"/>
+    <frame tileid="42" duration="100"/>
+    <frame tileid="43" duration="100"/>
+    <frame tileid="44" duration="100"/>
+    <frame tileid="45" duration="100"/>
+    <frame tileid="46" duration="100"/>
+    <frame tileid="47" duration="100"/>
+    <frame tileid="48" duration="100"/>
+    <frame tileid="49" duration="100"/>
+    <frame tileid="50" duration="100"/>
+    <frame tileid="51" duration="100"/>
+    <frame tileid="52" duration="100"/>
+    <frame tileid="53" duration="100"/>
+    <frame tileid="54" duration="100"/>
+   </animation>
+  </tile>
+  <wangsets>
+   <wangset name="beach - with thick foam" type="corner" tile="172">
+    <wangcolor name="" color="#ff0000" tile="172" probability="1"/>
+    <wangtile tileid="1" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="2" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="3" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="4" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="5" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="6" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="7" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="8" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="9" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="10" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="11" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="34" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="35" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="36" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="37" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="38" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="68" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="69" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="70" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="71" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="72" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="102" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="103" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="104" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="105" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="106" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="136" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="137" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="138" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="139" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="140" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="171" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="172" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="173" wangid="0,0,0,0,0,0,0,1"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="511" name="Tilesets-GL2SA" tilewidth="32" tileheight="32" tilecount="704" columns="32">
+  <image source="tiled/ERW-Sea Adventures-GL2 Expansion/Tilesets/tilesets.png" width="1024" height="704"/>
+  <tile id="0" probability="0"/>
+  <tile id="1" probability="0"/>
+  <tile id="2" probability="0"/>
+  <tile id="3" probability="0"/>
+  <tile id="4" probability="0"/>
+  <tile id="5" probability="0"/>
+  <tile id="6" probability="0"/>
+  <tile id="7" probability="0"/>
+  <tile id="8" probability="0"/>
+  <tile id="9" probability="0"/>
+  <tile id="10" probability="0"/>
+  <tile id="11" probability="0"/>
+  <tile id="12" probability="0"/>
+  <tile id="13" probability="0"/>
+  <tile id="14" probability="0"/>
+  <tile id="15" probability="0"/>
+  <tile id="16" probability="0"/>
+  <tile id="17">
+   <animation>
+    <frame tileid="17" duration="100"/>
+    <frame tileid="18" duration="100"/>
+    <frame tileid="19" duration="100"/>
+    <frame tileid="20" duration="100"/>
+    <frame tileid="21" duration="100"/>
+    <frame tileid="22" duration="100"/>
+    <frame tileid="23" duration="100"/>
+    <frame tileid="24" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="32" probability="0"/>
+  <tile id="33" probability="0"/>
+  <tile id="34" probability="0"/>
+  <tile id="38" probability="0"/>
+  <tile id="39" probability="0"/>
+  <tile id="40" probability="0"/>
+  <tile id="41" probability="0"/>
+  <tile id="42" probability="0"/>
+  <tile id="43" probability="0"/>
+  <tile id="44" probability="0"/>
+  <tile id="45" probability="0"/>
+  <tile id="46" probability="0"/>
+  <tile id="47" probability="0"/>
+  <tile id="48" probability="0"/>
+  <tile id="64" probability="0"/>
+  <tile id="65" probability="0"/>
+  <tile id="66" probability="0"/>
+  <tile id="68" probability="0"/>
+  <tile id="70" probability="0"/>
+  <tile id="71" probability="0"/>
+  <tile id="72" probability="0"/>
+  <tile id="73" probability="0"/>
+  <tile id="74" probability="0"/>
+  <tile id="75" probability="0"/>
+  <tile id="76" probability="0"/>
+  <tile id="77" probability="0"/>
+  <tile id="78" probability="0"/>
+  <tile id="79" probability="0"/>
+  <tile id="80" probability="0"/>
+  <tile id="96" probability="0"/>
+  <tile id="97" probability="0"/>
+  <tile id="98" probability="0"/>
+  <tile id="100" probability="0"/>
+  <tile id="102" probability="0"/>
+  <tile id="103" probability="0"/>
+  <tile id="104" probability="0"/>
+  <tile id="105" probability="0"/>
+  <tile id="106" probability="0"/>
+  <tile id="107" probability="0"/>
+  <tile id="108" probability="0"/>
+  <tile id="109" probability="0"/>
+  <tile id="110" probability="0"/>
+  <tile id="111" probability="0"/>
+  <tile id="112" probability="0"/>
+  <tile id="128" probability="0"/>
+  <tile id="129" probability="0"/>
+  <tile id="130" probability="0"/>
+  <tile id="131" probability="0"/>
+  <tile id="133" probability="0"/>
+  <tile id="134" probability="0"/>
+  <tile id="135" probability="0"/>
+  <tile id="136" probability="0"/>
+  <tile id="137" probability="0"/>
+  <tile id="138" probability="0"/>
+  <tile id="139" probability="0"/>
+  <tile id="140" probability="0"/>
+  <tile id="141" probability="0"/>
+  <tile id="142" probability="0"/>
+  <tile id="143" probability="0"/>
+  <tile id="144" probability="0"/>
+  <tile id="160" probability="0"/>
+  <tile id="161" probability="0"/>
+  <tile id="162" probability="0"/>
+  <tile id="164" probability="0"/>
+  <tile id="166" probability="0"/>
+  <tile id="167" probability="0"/>
+  <tile id="168" probability="0"/>
+  <tile id="169" probability="0"/>
+  <tile id="170" probability="0"/>
+  <tile id="171" probability="0"/>
+  <tile id="172" probability="0"/>
+  <tile id="173" probability="0"/>
+  <tile id="174" probability="0"/>
+  <tile id="175" probability="0"/>
+  <tile id="176" probability="0"/>
+  <tile id="192" probability="0"/>
+  <tile id="193" probability="0"/>
+  <tile id="194" probability="0"/>
+  <tile id="195" probability="0"/>
+  <tile id="196" probability="0"/>
+  <tile id="197" probability="0"/>
+  <tile id="198" probability="0"/>
+  <tile id="199" probability="0"/>
+  <tile id="200" probability="0"/>
+  <tile id="201" probability="0"/>
+  <tile id="202" probability="0"/>
+  <tile id="203" probability="0"/>
+  <tile id="204" probability="0"/>
+  <tile id="205" probability="0"/>
+  <tile id="206" probability="0"/>
+  <tile id="207" probability="0"/>
+  <tile id="208" probability="0"/>
+  <tile id="209" probability="0"/>
+  <tile id="224" probability="0"/>
+  <tile id="225" probability="0"/>
+  <tile id="226" probability="0"/>
+  <tile id="230" probability="0"/>
+  <tile id="231" probability="0"/>
+  <tile id="232" probability="0"/>
+  <tile id="233" probability="0"/>
+  <tile id="234" probability="0"/>
+  <tile id="235" probability="0"/>
+  <tile id="236" probability="0"/>
+  <tile id="237" probability="0"/>
+  <tile id="238" probability="0"/>
+  <tile id="239" probability="0"/>
+  <tile id="240" probability="0"/>
+  <tile id="241" probability="0"/>
+  <tile id="256" probability="0"/>
+  <tile id="257" probability="0"/>
+  <tile id="258" probability="0"/>
+  <tile id="259" probability="0"/>
+  <tile id="260" probability="0"/>
+  <tile id="261" probability="0"/>
+  <tile id="262" probability="0"/>
+  <tile id="263" probability="0"/>
+  <tile id="264" probability="0"/>
+  <tile id="265" probability="0"/>
+  <tile id="266" probability="0"/>
+  <tile id="267" probability="0"/>
+  <tile id="268" probability="0"/>
+  <tile id="269" probability="0"/>
+  <tile id="270" probability="0"/>
+  <tile id="271" probability="0"/>
+  <tile id="272" probability="0"/>
+  <tile id="288" probability="0"/>
+  <tile id="289" probability="0"/>
+  <tile id="290" probability="0"/>
+  <tile id="291" probability="0"/>
+  <tile id="292" probability="0"/>
+  <tile id="293" probability="0"/>
+  <tile id="294" probability="0"/>
+  <tile id="295" probability="0"/>
+  <tile id="296" probability="0"/>
+  <wangsets>
+   <wangset name="dock (press CTRL while using Terrain Brush(T) to get a 3x3 brush.Automapping needs a 3x3 tiles to work properly)" type="corner" tile="36">
+    <wangcolor name="" color="#ff0000" tile="36" probability="1"/>
+    <wangcolor name="" color="#00ff00" tile="-1" probability="1"/>
+    <wangtile tileid="4" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="12" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="13" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="14" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="16" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="35" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="36" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="37" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="41" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="42" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="43" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="44" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="45" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="46" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="47" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="48" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="64" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="67" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="68" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="69" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="72" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="73" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="74" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="75" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="76" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="77" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="78" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="79" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="80" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="96" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="97" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="98" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="99" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="100" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="101" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="102" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="103" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="104" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="105" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="106" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="107" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="108" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="109" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="128" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="129" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="130" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="131" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="132" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="133" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="134" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="135" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="136" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="137" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="138" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="139" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="140" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="141" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="142" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="160" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="161" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="162" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="163" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="164" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="165" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="166" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="167" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="168" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="169" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="170" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="171" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="172" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="173" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="174" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="192" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="193" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="194" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="195" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="196" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="197" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="201" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="202" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="203" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="204" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="206" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="207" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="208" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="209" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="224" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="227" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="228" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="229" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="233" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="234" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="235" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="236" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="237" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="238" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="239" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="240" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="241" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="256" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="257" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="258" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="259" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="260" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="265" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="266" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="267" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="268" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="269" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="270" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="271" wangid="0,0,0,0,0,1,0,1"/>
+   </wangset>
+   <wangset name="stone floor" type="corner" tile="212">
+    <wangcolor name="" color="#ff0000" tile="212" probability="1"/>
+    <wangtile tileid="50" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="51" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="52" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="53" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="54" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="55" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="56" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="57" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="81" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="82" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="83" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="84" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="85" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="86" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="87" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="88" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="89" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="90" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="113" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="114" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="115" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="116" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="117" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="118" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="119" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="120" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="121" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="122" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="145" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="146" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="147" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="148" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="149" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="150" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="151" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="152" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="153" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="154" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="210" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="211" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="212" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="213" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="214" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="242" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="243" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="244" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="245" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="246" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="274" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="275" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="276" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="277" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="278" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="306" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="307" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="308" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="309" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="310" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="339" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="340" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="341" wangid="0,0,0,0,0,0,0,1"/>
+   </wangset>
+   <wangset name="grass to sand" type="corner" tile="218">
+    <wangcolor name="" color="#ff0000" tile="218" probability="1"/>
+    <wangtile tileid="216" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="217" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="218" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="219" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="220" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="248" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="249" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="250" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="251" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="252" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="280" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="281" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="282" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="283" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="284" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="312" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="313" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="314" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="315" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="316" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="344" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="345" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="346" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="347" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="348" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="376" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="378" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="379" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="380" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="408" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="409" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="410" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="411" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="440" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="441" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="442" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="443" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="472" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="473" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="474" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="475" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="476" wangid="0,0,0,1,0,1,0,0"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="1215" name="Atlas-props-sprites" tilewidth="576" tileheight="480" tilecount="363" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="1">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="2">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="3">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="4">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="5">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel - fish_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="6">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="7">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="8">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="9">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrel_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="10">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="11">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="12">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="13">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="14">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="15">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="16">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_6.png" width="32" height="64"/>
+  </tile>
+  <tile id="17">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_7.png" width="32" height="64"/>
+  </tile>
+  <tile id="18">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_8.png" width="32" height="64"/>
+  </tile>
+  <tile id="19">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_9.png" width="32" height="64"/>
+  </tile>
+  <tile id="20">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="21">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="22">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="23">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="24">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="25">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="26">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="27">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="28">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="29">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="30">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="31">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="32">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="33">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="34">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_24.png" width="32" height="32"/>
+  </tile>
+  <tile id="35">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_25.png" width="32" height="32"/>
+  </tile>
+  <tile id="36">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_26.png" width="32" height="32"/>
+  </tile>
+  <tile id="37">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_27.png" width="32" height="32"/>
+  </tile>
+  <tile id="38">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_28.png" width="32" height="32"/>
+  </tile>
+  <tile id="39">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels on sand_29.png" width="32" height="32"/>
+  </tile>
+  <tile id="40">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="41">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="42">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="43">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="44">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="45">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="46">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_6.png" width="32" height="64"/>
+  </tile>
+  <tile id="47">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_7.png" width="32" height="64"/>
+  </tile>
+  <tile id="48">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_8.png" width="32" height="64"/>
+  </tile>
+  <tile id="49">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barrels_9.png" width="32" height="64"/>
+  </tile>
+  <tile id="50">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/barricade.png" width="64" height="96"/>
+  </tile>
+  <tile id="51">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fishes-1.png" width="96" height="64"/>
+  </tile>
+  <tile id="52">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fishes-2.png" width="32" height="32"/>
+  </tile>
+  <tile id="53">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fishes-3.png" width="32" height="32"/>
+  </tile>
+  <tile id="54">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-1.png" width="32" height="64"/>
+  </tile>
+  <tile id="55">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-2.png" width="32" height="32"/>
+  </tile>
+  <tile id="56">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-3.png" width="32" height="32"/>
+  </tile>
+  <tile id="57">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-4.png" width="32" height="64"/>
+  </tile>
+  <tile id="58">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-5.png" width="32" height="64"/>
+  </tile>
+  <tile id="59">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-6.png" width="96" height="64"/>
+  </tile>
+  <tile id="60">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/basket with fruits-7.png" width="96" height="64"/>
+  </tile>
+  <tile id="61">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-1.png" width="32" height="32"/>
+  </tile>
+  <tile id="62">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-2.png" width="32" height="32"/>
+  </tile>
+  <tile id="63">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-3.png" width="32" height="64"/>
+  </tile>
+  <tile id="64">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-4.png" width="32" height="64"/>
+  </tile>
+  <tile id="65">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-5.png" width="32" height="64"/>
+  </tile>
+  <tile id="66">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-6.png" width="128" height="64"/>
+  </tile>
+  <tile id="67">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/baskets-7.png" width="96" height="64"/>
+  </tile>
+  <tile id="68">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="69">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="70">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="71">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="72">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="73">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="74">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="75">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="76">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="77">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="78">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="79">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="80">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="81">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="82">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="83">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_15.png" width="64" height="64"/>
+  </tile>
+  <tile id="84">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_16.png" width="32" height="64"/>
+  </tile>
+  <tile id="85">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_17.png" width="32" height="64"/>
+  </tile>
+  <tile id="86">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_18.png" width="32" height="64"/>
+  </tile>
+  <tile id="87">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_19.png" width="32" height="64"/>
+  </tile>
+  <tile id="88">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_20.png" width="32" height="64"/>
+  </tile>
+  <tile id="89">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="90">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bones_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="91">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bucket_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="92">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bucket_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="93">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bucket_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="94">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bucket_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="95">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/bucket_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="96">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/chest_0.png" width="64" height="64"/>
+  </tile>
+  <tile id="97">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/chest_1.png" width="64" height="64"/>
+  </tile>
+  <tile id="98">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/chest_2.png" width="64" height="64"/>
+  </tile>
+  <tile id="99">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/chest_3.png" width="64" height="32"/>
+  </tile>
+  <tile id="100">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="101">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="102">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="103">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="104">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="105">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="106">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="107">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="108">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="109">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="110">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="111">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="112">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="113">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="114">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="115">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/coconut_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="116">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="117">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="118">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="119">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="120">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="121">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates - fish_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="122">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="123">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="124">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="125">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="126">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="127">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="128">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_6.png" width="32" height="64"/>
+  </tile>
+  <tile id="129">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_7.png" width="32" height="64"/>
+  </tile>
+  <tile id="130">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_8.png" width="32" height="64"/>
+  </tile>
+  <tile id="131">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_9.png" width="32" height="64"/>
+  </tile>
+  <tile id="132">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_10.png" width="32" height="64"/>
+  </tile>
+  <tile id="133">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="134">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="135">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="136">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="137">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="138">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="139">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="140">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="141">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="142">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="143">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="144">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="145">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="146">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_24.png" width="32" height="32"/>
+  </tile>
+  <tile id="147">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_25.png" width="32" height="32"/>
+  </tile>
+  <tile id="148">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_26.png" width="32" height="32"/>
+  </tile>
+  <tile id="149">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_27.png" width="32" height="32"/>
+  </tile>
+  <tile id="150">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_28.png" width="32" height="32"/>
+  </tile>
+  <tile id="151">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_29.png" width="32" height="32"/>
+  </tile>
+  <tile id="152">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_30.png" width="32" height="32"/>
+  </tile>
+  <tile id="153">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_31.png" width="32" height="32"/>
+  </tile>
+  <tile id="154">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates on sand_32.png" width="32" height="32"/>
+  </tile>
+  <tile id="155">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates with fruits_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="156">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates with fruits_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="157">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates with fruits_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="158">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="159">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="160">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="161">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="162">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="163">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_5.png" width="32" height="64"/>
+  </tile>
+  <tile id="164">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_6.png" width="32" height="64"/>
+  </tile>
+  <tile id="165">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_7.png" width="32" height="64"/>
+  </tile>
+  <tile id="166">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_8.png" width="32" height="64"/>
+  </tile>
+  <tile id="167">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_9.png" width="32" height="64"/>
+  </tile>
+  <tile id="168">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates_10.png" width="32" height="64"/>
+  </tile>
+  <tile id="169">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates-opened_0.png" width="32" height="64"/>
+  </tile>
+  <tile id="170">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates-opened_1.png" width="32" height="64"/>
+  </tile>
+  <tile id="171">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates-opened_2.png" width="32" height="64"/>
+  </tile>
+  <tile id="172">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates-opened_3.png" width="32" height="64"/>
+  </tile>
+  <tile id="173">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/crates-opened_4.png" width="32" height="64"/>
+  </tile>
+  <tile id="174">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/cratess-1.png" width="64" height="64"/>
+  </tile>
+  <tile id="175">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/cratess-2.png" width="32" height="64"/>
+  </tile>
+  <tile id="176">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="177">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="178">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="179">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="180">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="181">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="182">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="183">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="184">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="185">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="186">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="187">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="188">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="189">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="190">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="191">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_15.png" width="64" height="32"/>
+  </tile>
+  <tile id="192">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_16.png" width="64" height="32"/>
+  </tile>
+  <tile id="193">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_17.png" width="64" height="32"/>
+  </tile>
+  <tile id="194">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fish_18.png" width="64" height="32"/>
+  </tile>
+  <tile id="195">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fossil.png" width="512" height="192"/>
+  </tile>
+  <tile id="196">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fossil-sand.png" width="512" height="192"/>
+  </tile>
+  <tile id="197">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-apple1.png" width="32" height="32"/>
+  </tile>
+  <tile id="198">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-apple2.png" width="32" height="32"/>
+  </tile>
+  <tile id="199">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-avocado1.png" width="32" height="32"/>
+  </tile>
+  <tile id="200">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-avocado2.png" width="32" height="32"/>
+  </tile>
+  <tile id="201">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-banana1.png" width="32" height="32"/>
+  </tile>
+  <tile id="202">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-banana2.png" width="32" height="32"/>
+  </tile>
+  <tile id="203">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-banana3.png" width="32" height="32"/>
+  </tile>
+  <tile id="204">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-grapes1.png" width="32" height="32"/>
+  </tile>
+  <tile id="205">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-grapes2.png" width="32" height="32"/>
+  </tile>
+  <tile id="206">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-grapes3.png" width="32" height="32"/>
+  </tile>
+  <tile id="207">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-lemon1.png" width="32" height="32"/>
+  </tile>
+  <tile id="208">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-lemon2.png" width="32" height="32"/>
+  </tile>
+  <tile id="209">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-orange1.png" width="32" height="32"/>
+  </tile>
+  <tile id="210">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-orange2.png" width="32" height="32"/>
+  </tile>
+  <tile id="211">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-papaya1.png" width="32" height="32"/>
+  </tile>
+  <tile id="212">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-papaya2.png" width="32" height="32"/>
+  </tile>
+  <tile id="213">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-pear.png" width="32" height="32"/>
+  </tile>
+  <tile id="214">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-pineapple.png" width="32" height="32"/>
+  </tile>
+  <tile id="215">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-pinepaple.png" width="32" height="32"/>
+  </tile>
+  <tile id="216">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-pumpkin1.png" width="32" height="32"/>
+  </tile>
+  <tile id="217">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-pumpkin2.png" width="32" height="32"/>
+  </tile>
+  <tile id="218">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-strawberry.png" width="32" height="32"/>
+  </tile>
+  <tile id="219">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-watermelon1.png" width="32" height="32"/>
+  </tile>
+  <tile id="220">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/fruits-watermelon2.png" width="32" height="32"/>
+  </tile>
+  <tile id="221">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house or shop-pirate.png" width="384" height="224"/>
+  </tile>
+  <tile id="222">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house or shop-shadow.png" width="384" height="64"/>
+  </tile>
+  <tile id="223">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house.png" width="224" height="288"/>
+  </tile>
+  <tile id="224">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-1.png" width="32" height="64"/>
+  </tile>
+  <tile id="225">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-2.png" width="32" height="64"/>
+  </tile>
+  <tile id="226">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-3.png" width="32" height="64"/>
+  </tile>
+  <tile id="227">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-4.png" width="32" height="96"/>
+  </tile>
+  <tile id="228">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-5.png" width="64" height="96"/>
+  </tile>
+  <tile id="229">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/house-fisherman house-6.png" width="64" height="96"/>
+  </tile>
+  <tile id="230">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse cabin.png" width="192" height="256"/>
+  </tile>
+  <tile id="231">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse cabin-grass.png" width="192" height="32"/>
+  </tile>
+  <tile id="232">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse cabin-sand.png" width="192" height="32"/>
+  </tile>
+  <tile id="233">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse grass.png" width="160" height="128"/>
+  </tile>
+  <tile id="234">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse sand.png" width="160" height="128"/>
+  </tile>
+  <tile id="235">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse shadow - grass.png" width="160" height="128"/>
+  </tile>
+  <tile id="236">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse shadow - sand.png" width="160" height="128"/>
+  </tile>
+  <tile id="237">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse shadow.png" width="160" height="128"/>
+  </tile>
+  <tile id="238">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/lighthouse.png" width="160" height="480"/>
+  </tile>
+  <tile id="239">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_0.png" width="128" height="160"/>
+  </tile>
+  <tile id="240">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_1.png" width="192" height="160"/>
+  </tile>
+  <tile id="241">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_2.png" width="128" height="160"/>
+  </tile>
+  <tile id="242">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_3.png" width="160" height="128"/>
+  </tile>
+  <tile id="243">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_4.png" width="160" height="128"/>
+  </tile>
+  <tile id="244">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_5.png" width="128" height="160"/>
+  </tile>
+  <tile id="245">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_6.png" width="192" height="160"/>
+  </tile>
+  <tile id="246">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/little stalls_7.png" width="128" height="160"/>
+  </tile>
+  <tile id="247">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 1.png" width="96" height="160"/>
+  </tile>
+  <tile id="248">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 2.png" width="96" height="160"/>
+  </tile>
+  <tile id="249">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 3.png" width="160" height="192"/>
+  </tile>
+  <tile id="250">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 4.png" width="128" height="160"/>
+  </tile>
+  <tile id="251">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 5.png" width="96" height="160"/>
+  </tile>
+  <tile id="252">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - 6.png" width="96" height="192"/>
+  </tile>
+  <tile id="253">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - leaves-1.png" width="96" height="96"/>
+  </tile>
+  <tile id="254">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - leaves-2.png" width="96" height="96"/>
+  </tile>
+  <tile id="255">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - leaves-3.png" width="128" height="96"/>
+  </tile>
+  <tile id="256">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -1.png" width="96" height="64"/>
+  </tile>
+  <tile id="257">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -2.png" width="96" height="64"/>
+  </tile>
+  <tile id="258">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -3.png" width="128" height="64"/>
+  </tile>
+  <tile id="259">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -4.png" width="128" height="64"/>
+  </tile>
+  <tile id="260">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -5.png" width="96" height="64"/>
+  </tile>
+  <tile id="261">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - shadow -6.png" width="96" height="64"/>
+  </tile>
+  <tile id="262">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-1.png" width="64" height="96"/>
+  </tile>
+  <tile id="263">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-2.png" width="64" height="96"/>
+  </tile>
+  <tile id="264">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-3.png" width="96" height="128"/>
+  </tile>
+  <tile id="265">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-4.png" width="96" height="96"/>
+  </tile>
+  <tile id="266">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-5.png" width="64" height="128"/>
+  </tile>
+  <tile id="267">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/palm tree - trunk-6.png" width="64" height="128"/>
+  </tile>
+  <tile id="268">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="269">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="270">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="271">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="272">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="273">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="274">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="275">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="276">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="277">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="278">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="279">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="280">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="281">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="282">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="283">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="284">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_16.png" width="32" height="32"/>
+  </tile>
+  <tile id="285">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_17.png" width="32" height="32"/>
+  </tile>
+  <tile id="286">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_18.png" width="32" height="32"/>
+  </tile>
+  <tile id="287">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_19.png" width="32" height="32"/>
+  </tile>
+  <tile id="288">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_20.png" width="32" height="32"/>
+  </tile>
+  <tile id="289">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_21.png" width="32" height="32"/>
+  </tile>
+  <tile id="290">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_22.png" width="32" height="32"/>
+  </tile>
+  <tile id="291">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_23.png" width="32" height="32"/>
+  </tile>
+  <tile id="292">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_24.png" width="64" height="32"/>
+  </tile>
+  <tile id="293">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_25.png" width="64" height="32"/>
+  </tile>
+  <tile id="294">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_26.png" width="96" height="64"/>
+  </tile>
+  <tile id="295">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_27.png" width="96" height="64"/>
+  </tile>
+  <tile id="296">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_28.png" width="64" height="64"/>
+  </tile>
+  <tile id="297">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_29.png" width="64" height="64"/>
+  </tile>
+  <tile id="298">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_30.png" width="64" height="64"/>
+  </tile>
+  <tile id="299">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_31.png" width="64" height="64"/>
+  </tile>
+  <tile id="300">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks on sand_32.png" width="96" height="64"/>
+  </tile>
+  <tile id="301">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="302">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="303">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="304">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="305">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="306">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="307">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="308">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="309">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="310">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="311">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="312">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="313">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_12.png" width="32" height="32"/>
+  </tile>
+  <tile id="314">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_13.png" width="32" height="32"/>
+  </tile>
+  <tile id="315">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_14.png" width="32" height="32"/>
+  </tile>
+  <tile id="316">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocks_15.png" width="32" height="32"/>
+  </tile>
+  <tile id="317">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull structure.png" width="576" height="256"/>
+  </tile>
+  <tile id="318">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull structure-grass.png" width="576" height="256"/>
+  </tile>
+  <tile id="319">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull structure-sand.png" width="576" height="256"/>
+  </tile>
+  <tile id="320">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull.png" width="128" height="128"/>
+  </tile>
+  <tile id="321">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull-grass.png" width="128" height="128"/>
+  </tile>
+  <tile id="322">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rocky skull-sand.png" width="128" height="128"/>
+  </tile>
+  <tile id="323">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="324">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="325">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="326">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="327">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="328">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/rope on floor_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="329">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_0.png" width="32" height="32"/>
+  </tile>
+  <tile id="330">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_1.png" width="32" height="32"/>
+  </tile>
+  <tile id="331">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_2.png" width="32" height="32"/>
+  </tile>
+  <tile id="332">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_3.png" width="32" height="32"/>
+  </tile>
+  <tile id="333">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_4.png" width="32" height="32"/>
+  </tile>
+  <tile id="334">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_5.png" width="32" height="32"/>
+  </tile>
+  <tile id="335">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_6.png" width="32" height="32"/>
+  </tile>
+  <tile id="336">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_7.png" width="32" height="32"/>
+  </tile>
+  <tile id="337">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_8.png" width="32" height="32"/>
+  </tile>
+  <tile id="338">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_9.png" width="32" height="32"/>
+  </tile>
+  <tile id="339">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_10.png" width="32" height="32"/>
+  </tile>
+  <tile id="340">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shells and pearls_11.png" width="32" height="32"/>
+  </tile>
+  <tile id="341">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor.png" width="256" height="288"/>
+  </tile>
+  <tile id="342">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-empty.png" width="256" height="288"/>
+  </tile>
+  <tile id="343">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-sign-armor.png" width="64" height="32"/>
+  </tile>
+  <tile id="344">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-sign-empty.png" width="64" height="32"/>
+  </tile>
+  <tile id="345">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-sign-potions.png" width="64" height="32"/>
+  </tile>
+  <tile id="346">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-sign-shield.png" width="64" height="32"/>
+  </tile>
+  <tile id="347">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/shop-blacksmith-vendor-sign-weapon.png" width="64" height="32"/>
+  </tile>
+  <tile id="348">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/Slice 34.png" width="128" height="64"/>
+  </tile>
+  <tile id="349">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/Slice 35.png" width="192" height="64"/>
+  </tile>
+  <tile id="350">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/Slice 38.png" width="192" height="64"/>
+  </tile>
+  <tile id="351">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/Slice 39.png" width="160" height="96"/>
+  </tile>
+  <tile id="352">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/Slice 51.png" width="96" height="96"/>
+  </tile>
+  <tile id="353">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stall-detail.png" width="64" height="64"/>
+  </tile>
+  <tile id="354">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded boat2-1.png" width="64" height="64"/>
+  </tile>
+  <tile id="355">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded boat2-2.png" width="64" height="64"/>
+  </tile>
+  <tile id="356">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded boat2-sand.png" width="96" height="64"/>
+  </tile>
+  <tile id="357">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded boat-sand.png" width="128" height="64"/>
+  </tile>
+  <tile id="358">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded ship.png" width="512" height="288"/>
+  </tile>
+  <tile id="359">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded ship-grass.png" width="512" height="288"/>
+  </tile>
+  <tile id="360">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/stranded ship-sand.png" width="512" height="288"/>
+  </tile>
+  <tile id="361">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/tent.png" width="288" height="352"/>
+  </tile>
+  <tile id="362">
+   <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/atlas-props-sprites/watchtower.png" width="160" height="224"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="1578" name="Props_praia" tilewidth="32" tileheight="32" tilecount="4096" columns="64">
+  <image source="tiled/ERW-Sea Adventures-GL2 Expansion/props/props.png" width="2048" height="2048"/>
+ </tileset>
+ <tileset firstgid="5674" name="platform - grass2 - coast - spritesheet" tilewidth="32" tileheight="32" tilecount="986" columns="34">
+  <image source="tiled/ERW-Sea Adventures-GL2 Expansion/Tilesets/platform - grass2- coast - spritesheet.png" width="1088" height="953"/>
+  <tile id="1">
+   <animation>
+    <frame tileid="1" duration="100"/>
+    <frame tileid="2" duration="100"/>
+    <frame tileid="3" duration="100"/>
+    <frame tileid="4" duration="100"/>
+    <frame tileid="5" duration="100"/>
+    <frame tileid="6" duration="100"/>
+    <frame tileid="7" duration="100"/>
+    <frame tileid="8" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="34">
+   <animation>
+    <frame tileid="34" duration="100"/>
+    <frame tileid="459" duration="100"/>
+    <frame tileid="460" duration="100"/>
+    <frame tileid="461" duration="100"/>
+    <frame tileid="462" duration="100"/>
+    <frame tileid="463" duration="100"/>
+    <frame tileid="464" duration="100"/>
+    <frame tileid="465" duration="100"/>
+    <frame tileid="466" duration="100"/>
+    <frame tileid="467" duration="100"/>
+    <frame tileid="468" duration="100"/>
+    <frame tileid="469" duration="100"/>
+    <frame tileid="470" duration="100"/>
+    <frame tileid="471" duration="100"/>
+    <frame tileid="472" duration="100"/>
+    <frame tileid="473" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="35">
+   <animation>
+    <frame tileid="35" duration="100"/>
+    <frame tileid="340" duration="100"/>
+    <frame tileid="341" duration="100"/>
+    <frame tileid="342" duration="100"/>
+    <frame tileid="343" duration="100"/>
+    <frame tileid="344" duration="100"/>
+    <frame tileid="345" duration="100"/>
+    <frame tileid="346" duration="100"/>
+    <frame tileid="347" duration="100"/>
+    <frame tileid="348" duration="100"/>
+    <frame tileid="349" duration="100"/>
+    <frame tileid="350" duration="100"/>
+    <frame tileid="351" duration="100"/>
+    <frame tileid="352" duration="100"/>
+    <frame tileid="353" duration="100"/>
+    <frame tileid="354" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="36">
+   <animation>
+    <frame tileid="36" duration="100"/>
+    <frame tileid="306" duration="100"/>
+    <frame tileid="307" duration="100"/>
+    <frame tileid="308" duration="100"/>
+    <frame tileid="309" duration="100"/>
+    <frame tileid="310" duration="100"/>
+    <frame tileid="311" duration="100"/>
+    <frame tileid="312" duration="100"/>
+    <frame tileid="313" duration="100"/>
+    <frame tileid="314" duration="100"/>
+    <frame tileid="315" duration="100"/>
+    <frame tileid="316" duration="100"/>
+    <frame tileid="317" duration="100"/>
+    <frame tileid="318" duration="100"/>
+    <frame tileid="319" duration="100"/>
+    <frame tileid="320" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="37">
+   <animation>
+    <frame tileid="37" duration="100"/>
+    <frame tileid="272" duration="100"/>
+    <frame tileid="273" duration="100"/>
+    <frame tileid="274" duration="100"/>
+    <frame tileid="275" duration="100"/>
+    <frame tileid="276" duration="100"/>
+    <frame tileid="277" duration="100"/>
+    <frame tileid="278" duration="100"/>
+    <frame tileid="279" duration="100"/>
+    <frame tileid="280" duration="100"/>
+    <frame tileid="281" duration="100"/>
+    <frame tileid="282" duration="100"/>
+    <frame tileid="283" duration="100"/>
+    <frame tileid="284" duration="100"/>
+    <frame tileid="285" duration="100"/>
+    <frame tileid="286" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="38">
+   <animation>
+    <frame tileid="38" duration="100"/>
+    <frame tileid="425" duration="100"/>
+    <frame tileid="426" duration="100"/>
+    <frame tileid="427" duration="100"/>
+    <frame tileid="428" duration="100"/>
+    <frame tileid="429" duration="100"/>
+    <frame tileid="430" duration="100"/>
+    <frame tileid="431" duration="100"/>
+    <frame tileid="432" duration="100"/>
+    <frame tileid="433" duration="100"/>
+    <frame tileid="434" duration="100"/>
+    <frame tileid="435" duration="100"/>
+    <frame tileid="436" duration="100"/>
+    <frame tileid="437" duration="100"/>
+    <frame tileid="438" duration="100"/>
+    <frame tileid="439" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="68">
+   <animation>
+    <frame tileid="68" duration="100"/>
+    <frame tileid="408" duration="100"/>
+    <frame tileid="409" duration="100"/>
+    <frame tileid="410" duration="100"/>
+    <frame tileid="411" duration="100"/>
+    <frame tileid="412" duration="100"/>
+    <frame tileid="413" duration="100"/>
+    <frame tileid="414" duration="100"/>
+    <frame tileid="415" duration="100"/>
+    <frame tileid="416" duration="100"/>
+    <frame tileid="417" duration="100"/>
+    <frame tileid="418" duration="100"/>
+    <frame tileid="419" duration="100"/>
+    <frame tileid="420" duration="100"/>
+    <frame tileid="421" duration="100"/>
+    <frame tileid="422" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="69">
+   <animation>
+    <frame tileid="69" duration="100"/>
+    <frame tileid="374" duration="100"/>
+    <frame tileid="375" duration="100"/>
+    <frame tileid="376" duration="100"/>
+    <frame tileid="377" duration="100"/>
+    <frame tileid="378" duration="100"/>
+    <frame tileid="379" duration="100"/>
+    <frame tileid="380" duration="100"/>
+    <frame tileid="381" duration="100"/>
+    <frame tileid="382" duration="100"/>
+    <frame tileid="383" duration="100"/>
+    <frame tileid="384" duration="100"/>
+    <frame tileid="385" duration="100"/>
+    <frame tileid="386" duration="100"/>
+    <frame tileid="387" duration="100"/>
+    <frame tileid="388" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="71">
+   <animation>
+    <frame tileid="71" duration="100"/>
+    <frame tileid="210" duration="100"/>
+    <frame tileid="211" duration="100"/>
+    <frame tileid="212" duration="100"/>
+    <frame tileid="213" duration="100"/>
+    <frame tileid="214" duration="100"/>
+    <frame tileid="215" duration="100"/>
+    <frame tileid="216" duration="100"/>
+    <frame tileid="217" duration="100"/>
+    <frame tileid="218" duration="100"/>
+    <frame tileid="219" duration="100"/>
+    <frame tileid="220" duration="100"/>
+    <frame tileid="221" duration="100"/>
+    <frame tileid="222" duration="100"/>
+    <frame tileid="223" duration="100"/>
+    <frame tileid="224" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="72">
+   <animation>
+    <frame tileid="72" duration="100"/>
+    <frame tileid="176" duration="100"/>
+    <frame tileid="177" duration="100"/>
+    <frame tileid="178" duration="100"/>
+    <frame tileid="179" duration="100"/>
+    <frame tileid="180" duration="100"/>
+    <frame tileid="181" duration="100"/>
+    <frame tileid="182" duration="100"/>
+    <frame tileid="183" duration="100"/>
+    <frame tileid="184" duration="100"/>
+    <frame tileid="185" duration="100"/>
+    <frame tileid="186" duration="100"/>
+    <frame tileid="187" duration="100"/>
+    <frame tileid="188" duration="100"/>
+    <frame tileid="189" duration="100"/>
+    <frame tileid="190" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="102">
+   <animation>
+    <frame tileid="102" duration="100"/>
+    <frame tileid="442" duration="100"/>
+    <frame tileid="443" duration="100"/>
+    <frame tileid="444" duration="100"/>
+    <frame tileid="445" duration="100"/>
+    <frame tileid="446" duration="100"/>
+    <frame tileid="447" duration="100"/>
+    <frame tileid="448" duration="100"/>
+    <frame tileid="449" duration="100"/>
+    <frame tileid="450" duration="100"/>
+    <frame tileid="451" duration="100"/>
+    <frame tileid="452" duration="100"/>
+    <frame tileid="453" duration="100"/>
+    <frame tileid="454" duration="100"/>
+    <frame tileid="455" duration="100"/>
+    <frame tileid="456" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="106">
+   <animation>
+    <frame tileid="106" duration="100"/>
+    <frame tileid="142" duration="100"/>
+    <frame tileid="143" duration="100"/>
+    <frame tileid="144" duration="100"/>
+    <frame tileid="145" duration="100"/>
+    <frame tileid="146" duration="100"/>
+    <frame tileid="147" duration="100"/>
+    <frame tileid="148" duration="100"/>
+    <frame tileid="149" duration="100"/>
+    <frame tileid="150" duration="100"/>
+    <frame tileid="151" duration="100"/>
+    <frame tileid="152" duration="100"/>
+    <frame tileid="153" duration="100"/>
+    <frame tileid="154" duration="100"/>
+    <frame tileid="155" duration="100"/>
+    <frame tileid="156" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="136">
+   <animation>
+    <frame tileid="136" duration="100"/>
+    <frame tileid="289" duration="100"/>
+    <frame tileid="290" duration="100"/>
+    <frame tileid="291" duration="100"/>
+    <frame tileid="292" duration="100"/>
+    <frame tileid="293" duration="100"/>
+    <frame tileid="294" duration="100"/>
+    <frame tileid="295" duration="100"/>
+    <frame tileid="296" duration="100"/>
+    <frame tileid="297" duration="100"/>
+    <frame tileid="298" duration="100"/>
+    <frame tileid="299" duration="100"/>
+    <frame tileid="300" duration="100"/>
+    <frame tileid="301" duration="100"/>
+    <frame tileid="302" duration="100"/>
+    <frame tileid="303" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="137">
+   <animation>
+    <frame tileid="137" duration="100"/>
+    <frame tileid="323" duration="100"/>
+    <frame tileid="324" duration="100"/>
+    <frame tileid="325" duration="100"/>
+    <frame tileid="326" duration="100"/>
+    <frame tileid="327" duration="100"/>
+    <frame tileid="328" duration="100"/>
+    <frame tileid="329" duration="100"/>
+    <frame tileid="330" duration="100"/>
+    <frame tileid="331" duration="100"/>
+    <frame tileid="332" duration="100"/>
+    <frame tileid="333" duration="100"/>
+    <frame tileid="334" duration="100"/>
+    <frame tileid="335" duration="100"/>
+    <frame tileid="336" duration="100"/>
+    <frame tileid="337" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="139">
+   <animation>
+    <frame tileid="139" duration="100"/>
+    <frame tileid="74" duration="100"/>
+    <frame tileid="75" duration="100"/>
+    <frame tileid="76" duration="100"/>
+    <frame tileid="77" duration="100"/>
+    <frame tileid="78" duration="100"/>
+    <frame tileid="79" duration="100"/>
+    <frame tileid="80" duration="100"/>
+    <frame tileid="81" duration="100"/>
+    <frame tileid="82" duration="100"/>
+    <frame tileid="83" duration="100"/>
+    <frame tileid="84" duration="100"/>
+    <frame tileid="85" duration="100"/>
+    <frame tileid="86" duration="100"/>
+    <frame tileid="87" duration="100"/>
+    <frame tileid="88" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="140">
+   <animation>
+    <frame tileid="140" duration="100"/>
+    <frame tileid="108" duration="100"/>
+    <frame tileid="109" duration="100"/>
+    <frame tileid="110" duration="100"/>
+    <frame tileid="111" duration="100"/>
+    <frame tileid="112" duration="100"/>
+    <frame tileid="113" duration="100"/>
+    <frame tileid="114" duration="100"/>
+    <frame tileid="115" duration="100"/>
+    <frame tileid="116" duration="100"/>
+    <frame tileid="117" duration="100"/>
+    <frame tileid="118" duration="100"/>
+    <frame tileid="119" duration="100"/>
+    <frame tileid="120" duration="100"/>
+    <frame tileid="121" duration="100"/>
+    <frame tileid="122" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="171">
+   <animation>
+    <frame tileid="171" duration="100"/>
+    <frame tileid="357" duration="100"/>
+    <frame tileid="358" duration="100"/>
+    <frame tileid="359" duration="100"/>
+    <frame tileid="360" duration="100"/>
+    <frame tileid="361" duration="100"/>
+    <frame tileid="362" duration="100"/>
+    <frame tileid="363" duration="100"/>
+    <frame tileid="364" duration="100"/>
+    <frame tileid="365" duration="100"/>
+    <frame tileid="366" duration="100"/>
+    <frame tileid="367" duration="100"/>
+    <frame tileid="368" duration="100"/>
+    <frame tileid="369" duration="100"/>
+    <frame tileid="370" duration="100"/>
+    <frame tileid="371" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="172">
+   <animation>
+    <frame tileid="172" duration="100"/>
+    <frame tileid="391" duration="100"/>
+    <frame tileid="392" duration="100"/>
+    <frame tileid="393" duration="100"/>
+    <frame tileid="394" duration="100"/>
+    <frame tileid="395" duration="100"/>
+    <frame tileid="396" duration="100"/>
+    <frame tileid="397" duration="100"/>
+    <frame tileid="398" duration="100"/>
+    <frame tileid="399" duration="100"/>
+    <frame tileid="400" duration="100"/>
+    <frame tileid="401" duration="100"/>
+    <frame tileid="402" duration="100"/>
+    <frame tileid="403" duration="100"/>
+    <frame tileid="404" duration="100"/>
+    <frame tileid="405" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="173">
+   <animation>
+    <frame tileid="173" duration="100"/>
+    <frame tileid="40" duration="100"/>
+    <frame tileid="41" duration="100"/>
+    <frame tileid="42" duration="100"/>
+    <frame tileid="43" duration="100"/>
+    <frame tileid="44" duration="100"/>
+    <frame tileid="45" duration="100"/>
+    <frame tileid="46" duration="100"/>
+    <frame tileid="47" duration="100"/>
+    <frame tileid="48" duration="100"/>
+    <frame tileid="49" duration="100"/>
+    <frame tileid="50" duration="100"/>
+    <frame tileid="51" duration="100"/>
+    <frame tileid="52" duration="100"/>
+    <frame tileid="53" duration="100"/>
+    <frame tileid="54" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="544">
+   <animation>
+    <frame tileid="544" duration="100"/>
+    <frame tileid="545" duration="100"/>
+    <frame tileid="546" duration="100"/>
+    <frame tileid="547" duration="100"/>
+    <frame tileid="548" duration="100"/>
+    <frame tileid="549" duration="100"/>
+    <frame tileid="550" duration="100"/>
+    <frame tileid="551" duration="100"/>
+    <frame tileid="552" duration="100"/>
+    <frame tileid="553" duration="100"/>
+    <frame tileid="554" duration="100"/>
+    <frame tileid="555" duration="100"/>
+    <frame tileid="556" duration="100"/>
+    <frame tileid="557" duration="100"/>
+    <frame tileid="558" duration="100"/>
+    <frame tileid="559" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="561">
+   <animation>
+    <frame tileid="561" duration="100"/>
+    <frame tileid="562" duration="100"/>
+    <frame tileid="563" duration="100"/>
+    <frame tileid="564" duration="100"/>
+    <frame tileid="565" duration="100"/>
+    <frame tileid="566" duration="100"/>
+    <frame tileid="567" duration="100"/>
+    <frame tileid="568" duration="100"/>
+    <frame tileid="569" duration="100"/>
+    <frame tileid="570" duration="100"/>
+    <frame tileid="571" duration="100"/>
+    <frame tileid="572" duration="100"/>
+    <frame tileid="573" duration="100"/>
+    <frame tileid="574" duration="100"/>
+    <frame tileid="575" duration="100"/>
+    <frame tileid="576" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="578">
+   <animation>
+    <frame tileid="578" duration="100"/>
+    <frame tileid="579" duration="100"/>
+    <frame tileid="580" duration="100"/>
+    <frame tileid="581" duration="100"/>
+    <frame tileid="582" duration="100"/>
+    <frame tileid="583" duration="100"/>
+    <frame tileid="584" duration="100"/>
+    <frame tileid="585" duration="100"/>
+    <frame tileid="586" duration="100"/>
+    <frame tileid="587" duration="100"/>
+    <frame tileid="588" duration="100"/>
+    <frame tileid="589" duration="100"/>
+    <frame tileid="590" duration="100"/>
+    <frame tileid="591" duration="100"/>
+    <frame tileid="592" duration="100"/>
+    <frame tileid="593" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="595">
+   <animation>
+    <frame tileid="595" duration="100"/>
+    <frame tileid="596" duration="100"/>
+    <frame tileid="597" duration="100"/>
+    <frame tileid="598" duration="100"/>
+    <frame tileid="599" duration="100"/>
+    <frame tileid="600" duration="100"/>
+    <frame tileid="601" duration="100"/>
+    <frame tileid="602" duration="100"/>
+    <frame tileid="603" duration="100"/>
+    <frame tileid="604" duration="100"/>
+    <frame tileid="605" duration="100"/>
+    <frame tileid="606" duration="100"/>
+    <frame tileid="607" duration="100"/>
+    <frame tileid="608" duration="100"/>
+    <frame tileid="609" duration="100"/>
+    <frame tileid="610" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="612">
+   <animation>
+    <frame tileid="612" duration="100"/>
+    <frame tileid="613" duration="100"/>
+    <frame tileid="614" duration="100"/>
+    <frame tileid="615" duration="100"/>
+    <frame tileid="616" duration="100"/>
+    <frame tileid="617" duration="100"/>
+    <frame tileid="618" duration="100"/>
+    <frame tileid="619" duration="100"/>
+    <frame tileid="620" duration="100"/>
+    <frame tileid="621" duration="100"/>
+    <frame tileid="622" duration="100"/>
+    <frame tileid="623" duration="100"/>
+    <frame tileid="624" duration="100"/>
+    <frame tileid="625" duration="100"/>
+    <frame tileid="626" duration="100"/>
+    <frame tileid="627" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="629">
+   <animation>
+    <frame tileid="629" duration="100"/>
+    <frame tileid="630" duration="100"/>
+    <frame tileid="631" duration="100"/>
+    <frame tileid="632" duration="100"/>
+    <frame tileid="633" duration="100"/>
+    <frame tileid="634" duration="100"/>
+    <frame tileid="635" duration="100"/>
+    <frame tileid="636" duration="100"/>
+    <frame tileid="637" duration="100"/>
+    <frame tileid="638" duration="100"/>
+    <frame tileid="639" duration="100"/>
+    <frame tileid="640" duration="100"/>
+    <frame tileid="641" duration="100"/>
+    <frame tileid="642" duration="100"/>
+    <frame tileid="643" duration="100"/>
+    <frame tileid="644" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="646">
+   <animation>
+    <frame tileid="646" duration="100"/>
+    <frame tileid="647" duration="100"/>
+    <frame tileid="648" duration="100"/>
+    <frame tileid="649" duration="100"/>
+    <frame tileid="650" duration="100"/>
+    <frame tileid="651" duration="100"/>
+    <frame tileid="652" duration="100"/>
+    <frame tileid="653" duration="100"/>
+    <frame tileid="654" duration="100"/>
+    <frame tileid="655" duration="100"/>
+    <frame tileid="656" duration="100"/>
+    <frame tileid="657" duration="100"/>
+    <frame tileid="658" duration="100"/>
+    <frame tileid="659" duration="100"/>
+    <frame tileid="660" duration="100"/>
+    <frame tileid="661" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="663">
+   <animation>
+    <frame tileid="663" duration="100"/>
+    <frame tileid="664" duration="100"/>
+    <frame tileid="665" duration="100"/>
+    <frame tileid="666" duration="100"/>
+    <frame tileid="667" duration="100"/>
+    <frame tileid="668" duration="100"/>
+    <frame tileid="669" duration="100"/>
+    <frame tileid="670" duration="100"/>
+    <frame tileid="671" duration="100"/>
+    <frame tileid="672" duration="100"/>
+    <frame tileid="673" duration="100"/>
+    <frame tileid="674" duration="100"/>
+    <frame tileid="675" duration="100"/>
+    <frame tileid="676" duration="100"/>
+    <frame tileid="677" duration="100"/>
+    <frame tileid="678" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="680">
+   <animation>
+    <frame tileid="680" duration="100"/>
+    <frame tileid="681" duration="100"/>
+    <frame tileid="682" duration="100"/>
+    <frame tileid="683" duration="100"/>
+    <frame tileid="684" duration="100"/>
+    <frame tileid="685" duration="100"/>
+    <frame tileid="686" duration="100"/>
+    <frame tileid="687" duration="100"/>
+    <frame tileid="688" duration="100"/>
+    <frame tileid="689" duration="100"/>
+    <frame tileid="690" duration="100"/>
+    <frame tileid="691" duration="100"/>
+    <frame tileid="692" duration="100"/>
+    <frame tileid="693" duration="100"/>
+    <frame tileid="694" duration="100"/>
+    <frame tileid="695" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="697">
+   <animation>
+    <frame tileid="697" duration="100"/>
+    <frame tileid="698" duration="100"/>
+    <frame tileid="699" duration="100"/>
+    <frame tileid="700" duration="100"/>
+    <frame tileid="701" duration="100"/>
+    <frame tileid="702" duration="100"/>
+    <frame tileid="703" duration="100"/>
+    <frame tileid="704" duration="100"/>
+    <frame tileid="705" duration="100"/>
+    <frame tileid="706" duration="100"/>
+    <frame tileid="707" duration="100"/>
+    <frame tileid="708" duration="100"/>
+    <frame tileid="709" duration="100"/>
+    <frame tileid="710" duration="100"/>
+    <frame tileid="711" duration="100"/>
+    <frame tileid="712" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="714">
+   <animation>
+    <frame tileid="714" duration="100"/>
+    <frame tileid="715" duration="100"/>
+    <frame tileid="716" duration="100"/>
+    <frame tileid="717" duration="100"/>
+    <frame tileid="718" duration="100"/>
+    <frame tileid="719" duration="100"/>
+    <frame tileid="720" duration="100"/>
+    <frame tileid="721" duration="100"/>
+    <frame tileid="722" duration="100"/>
+    <frame tileid="723" duration="100"/>
+    <frame tileid="724" duration="100"/>
+    <frame tileid="725" duration="100"/>
+    <frame tileid="726" duration="100"/>
+    <frame tileid="727" duration="100"/>
+    <frame tileid="728" duration="100"/>
+    <frame tileid="729" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="731">
+   <animation>
+    <frame tileid="731" duration="100"/>
+    <frame tileid="732" duration="100"/>
+    <frame tileid="733" duration="100"/>
+    <frame tileid="734" duration="100"/>
+    <frame tileid="735" duration="100"/>
+    <frame tileid="736" duration="100"/>
+    <frame tileid="737" duration="100"/>
+    <frame tileid="738" duration="100"/>
+    <frame tileid="739" duration="100"/>
+    <frame tileid="740" duration="100"/>
+    <frame tileid="741" duration="100"/>
+    <frame tileid="742" duration="100"/>
+    <frame tileid="743" duration="100"/>
+    <frame tileid="744" duration="100"/>
+    <frame tileid="745" duration="100"/>
+    <frame tileid="746" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="782">
+   <animation>
+    <frame tileid="782" duration="100"/>
+    <frame tileid="783" duration="100"/>
+    <frame tileid="784" duration="100"/>
+    <frame tileid="785" duration="100"/>
+    <frame tileid="786" duration="100"/>
+    <frame tileid="787" duration="100"/>
+    <frame tileid="788" duration="100"/>
+    <frame tileid="789" duration="100"/>
+    <frame tileid="790" duration="100"/>
+    <frame tileid="791" duration="100"/>
+    <frame tileid="792" duration="100"/>
+    <frame tileid="793" duration="100"/>
+    <frame tileid="794" duration="100"/>
+    <frame tileid="795" duration="100"/>
+    <frame tileid="796" duration="100"/>
+    <frame tileid="797" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="816">
+   <animation>
+    <frame tileid="816" duration="100"/>
+    <frame tileid="817" duration="100"/>
+    <frame tileid="818" duration="100"/>
+    <frame tileid="819" duration="100"/>
+    <frame tileid="820" duration="100"/>
+    <frame tileid="821" duration="100"/>
+    <frame tileid="822" duration="100"/>
+    <frame tileid="823" duration="100"/>
+    <frame tileid="824" duration="100"/>
+    <frame tileid="825" duration="100"/>
+    <frame tileid="826" duration="100"/>
+    <frame tileid="827" duration="100"/>
+    <frame tileid="828" duration="100"/>
+    <frame tileid="829" duration="100"/>
+    <frame tileid="830" duration="100"/>
+    <frame tileid="831" duration="100"/>
+   </animation>
+  </tile>
+  <wangsets>
+   <wangset name="platform - grass2 to coast (sea)" type="corner" tile="172">
+    <wangcolor name="" color="#ff0000" tile="172" probability="1"/>
+    <wangtile tileid="34" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="35" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="36" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="37" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="38" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="68" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="69" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="70" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="71" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="72" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="102" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="103" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="104" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="105" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="106" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="136" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="137" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="138" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="139" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="140" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="171" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="172" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="173" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="544" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="561" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="578" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="595" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="612" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="629" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="646" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="663" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="680" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="697" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="714" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="731" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="782" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="816" wangid="0,1,0,0,0,0,0,1"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <layer id="1" name="Camada de Blocos 1" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1571,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="2" name="mar" width="40" height="40">
+  <data encoding="csv">
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,
+5675,5675,5675,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,
+5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,
+5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,
+5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,
+5675,5675,0,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,
+5675,5675,0,0,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,
+5675,5675,5675,0,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5675,5675,5675,5675,5675,5675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="Grama" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,
+0,0,0,36,37,37,37,37,37,37,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,105,
+0,0,0,103,2,6,104,5,5,106,72,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,105,
+0,0,69,70,139,12,7,106,8,7,2,72,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,37,70,9,5,
+0,0,103,11,4,12,11,71,2,5,2,4,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,105,12,71,10,
+0,0,103,2,5,3,2,5,2,9,5,71,72,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,37,70,6,5,71,11,11,
+0,0,103,139,71,9,5,4,10,9,104,8,4,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,12,8,4,9,4,3,104,
+0,0,137,138,8,5,10,2,9,8,2,8,2,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,8,106,10,11,104,8,105,8,
+0,0,0,103,12,139,106,105,7,71,11,139,140,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,37,70,4,5,9,12,104,12,9,139,10,
+0,0,0,172,138,105,7,5,12,12,9,8,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,4,4,71,10,7,2,7,6,71,104,9,
+0,0,0,0,137,138,9,11,10,5,139,11,107,0,0,0,0,0,0,0,0,0,0,0,0,69,37,70,6,71,11,9,9,12,4,12,6,4,4,9,
+0,0,0,0,0,137,173,173,173,173,173,173,174,0,0,0,0,0,0,0,0,0,0,69,37,70,10,104,6,104,8,11,71,4,6,139,106,9,3,8,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,2,9,7,8,71,3,8,106,8,106,4,71,12,11,12,11,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,37,70,12,3,4,105,11,11,2,9,5,10,12,104,5,71,8,7,3,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,10,105,104,12,5,3,106,7,12,139,4,8,139,9,7,4,106,104,8,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,104,9,139,6,2,4,2,104,106,71,5,9,10,139,8,4,6,5,104,6,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,12,3,10,7,9,3,8,106,105,8,7,4,8,5,10,5,7,11,5,4,4,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,3,106,2,8,10,106,105,8,106,9,8,11,139,12,104,9,3,105,139,7,5,105,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,37,70,9,3,6,139,2,10,71,8,7,5,105,106,4,10,4,10,105,8,2,11,6,104,4,
+0,0,0,0,0,0,0,0,0,0,0,0,0,69,70,6,5,2,9,12,11,4,105,2,139,12,10,104,6,4,11,12,71,139,7,8,8,104,1016,104,
+0,0,0,0,0,0,0,0,0,0,0,0,0,103,10,6,2,5,3,5,8,3,4,4,106,106,4,6,105,12,12,2,5,10,106,2,10,11,1018,1017,
+0,0,0,0,0,0,0,0,0,0,0,0,69,70,104,3,8,2,5,4,8,12,3,10,8,10,139,105,6,12,12,7,12,10,8,7,2,4,1049,1049,
+0,0,0,0,0,0,0,0,0,0,0,0,103,7,106,4,3,10,8,105,12,9,7,4,11,3,2,106,6,7,9,10,6,6,8,1016,1048,1051,1052,1048,
+0,0,0,0,0,0,0,0,0,0,0,36,70,12,71,4,3,106,11,71,5,11,10,6,104,71,12,12,10,12,9,10,4,1017,1047,1018,1051,1015,1017,1048,
+0,0,0,0,0,0,0,0,0,0,0,103,71,3,139,3,8,104,7,11,9,104,71,11,9,6,12,3,4,1019,1051,6,1017,1052,1050,1048,1016,1018,1051,1047,
+0,0,0,0,0,0,0,0,0,0,69,70,2,105,2,4,105,11,10,10,10,12,11,5,8,2,4,10,10,1048,7,1018,1016,1049,1052,1052,1015,1017,1019,1017,
+0,0,0,0,0,0,0,0,0,0,103,12,7,12,12,4,4,10,3,8,5,4,9,2,9,3,7,12,1052,1052,1016,1051,1050,1049,1052,1050,1019,1052,1051,1051,
+0,0,0,0,0,0,0,0,0,36,70,12,71,2,139,12,8,4,8,4,5,12,9,11,2,10,11,1048,1015,1049,1052,1017,1052,1016,1051,1052,1047,1015,1050,1017,
+0,0,0,0,0,0,0,0,0,103,71,3,5,9,10,10,2,139,4,9,12,2,7,6,11,2,1017,1049,1049,1017,1050,1047,1018,1018,1052,1048,1019,1015,1051,1052,
+0,0,0,0,0,0,0,0,36,70,11,12,12,2,10,8,139,4,5,4,8,4,4,3,9,11,1048,1017,1048,1015,1051,1019,1050,1052,1052,1051,1051,1016,1049,1052,
+0,0,0,0,0,0,0,0,103,7,2,6,4,105,12,71,9,5,9,7,8,2,11,6,4,1051,1052,1050,1016,1017,1019,1019,1017,1018,1051,1016,1015,1017,1052,1049,
+0,0,0,0,0,0,0,0,103,139,105,2,7,9,2,7,7,12,4,5,9,9,4,6,1050,1047,1047,1015,1052,1050,1050,1049,1050,1047,1051,1051,1048,1015,1052,1018,
+0,0,0,0,0,0,0,0,103,105,9,12,4,3,5,4,5,2,7,10,7,4,4,1015,1047,1018,1016,1052,1052,1049,1015,1050,1052,1047,1050,1016,1018,1047,1050,1049,
+0,0,0,0,0,0,0,36,70,4,2,3,4,3,3,11,6,12,6,3,4,1019,1052,1048,1052,1051,1017,1050,1017,1018,1049,1052,1017,1052,1047,1048,1048,1016,1015,1017,
+0,0,0,0,0,0,0,103,5,10,139,104,139,10,6,8,2,4,8,7,1049,1019,1017,1052,1019,1051,1049,1015,1049,1015,1016,1052,1019,1018,1016,1016,1017,1019,1015,1052,
+0,0,0,0,0,0,0,103,8,71,9,5,105,71,4,5,12,5,11,1018,1015,1017,1048,1048,1052,1049,1018,1051,1016,1049,1016,1017,1050,1016,1019,1051,1052,1016,1015,1051,
+0,0,0,0,0,0,69,70,71,104,6,2,71,6,7,9,6,9,8,1018,1050,1048,1049,1019,1016,1016,1019,1015,1016,1050,1047,1019,1015,1018,1048,1017,1048,1052,1015,1017,
+0,0,0,0,0,0,103,12,10,12,7,2,8,4,12,4,9,12,1016,1048,1048,1049,1015,1049,1017,1048,1019,1049,1050,1019,1052,1047,1048,1048,1016,1051,1015,1050,1049,1019,
+5675,5675,5675,5675,5675,5675,103,1019,1051,1050,1049,1017,1019,1017,1017,1051,1019,1017,1015,1049,1018,1019,1016,1017,1019,1050,1017,1017,1018,1047,1015,1047,1047,1052,1047,1052,1016,1017,1017,1047
+</data>
+ </layer>
+ <layer id="9" name="pedras_chao" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3315,3316,3317,3318,3319,3320,3321,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3379,3380,3381,3382,3383,3384,3385,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3443,3444,3445,3446,3447,3448,3449,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3507,3508,3509,3510,3511,3512,3513,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3571,3572,3573,3574,3575,3576,3577,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3635,3636,3637,3638,3639,3640,3641,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3699,3700,3701,3702,3703,3704,3705,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1536,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="4" name="concha_praia" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1550,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1552,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,1549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,1551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1551,0,1545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,1545,0,0,0,0,0,0,0,0,0,0,1545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="5" name="Pedra_Mar" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1508,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1497,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1489,0,0,0,0,0,0,1501,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1515,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1495,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1501,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1504,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1493,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1510,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1492,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,1515,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="8" name="objetos_praia" width="40" height="40">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1571,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,1576,1342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,1342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1360,0,0,0,0,1477,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1480,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1557,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1480,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1234,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1480,0,0,1436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1569,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1477,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,4804,4805,4806,4807,4808,4809,4810,4811,4812,4813,4814,4815,4816,4817,4818,4819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,4868,4869,4870,4871,4872,4873,4874,4875,4876,4877,4878,4879,4880,4881,4882,4883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,4932,4933,4934,4935,4936,4937,4938,4939,4940,4941,4942,4943,4944,4945,4946,4947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,4996,4997,4998,4999,5000,5001,5002,5003,5004,5005,5006,5007,5008,5009,5010,5011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,5060,5061,5062,5063,5064,5065,5066,5067,5068,5069,5070,5071,5072,5073,5074,5075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,5124,5125,5126,5127,5128,5129,5130,5131,5132,5133,5134,5135,5136,5137,5138,5139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="6" name="Arvores_praia" width="40" height="40" visible="0">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2147486603,2147486602,2955,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,2147486667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,1465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3026,0,0,
+0,0,0,0,0,0,0,0,1464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3090,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3154,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,4891,4892,4893,4894,4895,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1463,0,0,
+0,0,0,0,0,4955,4956,4957,4958,1463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1466,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1462,0,0,0,0,0,0,0,1467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1463,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,1463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3270,0,0,0,0,1467,0,0,0,0,0,0,0,0,0,1463,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="7" name="Predios_praia" width="40" height="40" visible="0">
+  <data encoding="csv">
+0,0,0,0,1971,1972,1973,1974,1975,1976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2035,2036,2037,2038,2039,2040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2099,2100,2101,2102,2103,2104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2163,2164,2165,2166,2167,2168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2227,2228,2229,2230,2231,2232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,4334,4335,2292,2293,2294,2295,2296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,4398,4399,2356,2357,2358,2359,2360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2419,2420,2421,2422,2423,2424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2483,2484,2485,2486,2487,2488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2547,2548,2549,2550,2551,2552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3482,3483,3484,0,0,0,0,0,0,0,3492,3493,3494,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3546,3547,0,0,0,0,0,0,0,0,0,0,3558,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3610,0,0,1436,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3674,0,0,0,0,0,0,0,0,0,0,0,3686,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3814,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,2602,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,2666,2667,2668,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,1571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,3114,0,0,0,0,0,0,0,0,0,0,0,0,3127,3128,3129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
